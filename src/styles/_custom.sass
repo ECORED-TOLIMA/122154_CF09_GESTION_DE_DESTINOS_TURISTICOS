@@ -1,18 +1,156 @@
 .banner-principal-decorativo
   &-1
+    animation: float1 5.0s ease-in-out infinite alternate
+    position: absolute
+    top: 58%
+    left: 5%
+    width: 15%
+  &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 50%
+    right: 10%
 
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+  
+.banner-principal__row .banner-principal__img
+  width: 34%
+
+.BGIMG01, .BGIMG02, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGIMG01, .BGM05
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BGIMG02
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BG01
+  background-color: #FEEBCF
+
+.BG02
+  background: linear-gradient(to right, #FECAB2 10%, #FFE9DF 10%)
+
+.BG03, .linea-tiempo-d .tarjeta
+  background-color: #D1E1DD
+
+.BG04, .BG03.acordion__activo, .cajon.color-secundario, .tarjeta--boton
+  background-color: #FFE9DF
+
+.BG05, .BGR05, .BGM05
+  background-color: #FEF7EB
+
+.BGR06
+  background-color: #FFE9DF
+  border-radius: 0 0 0 15px
+
+.BG07, .tarjeta--boton.color-secundario
+  background: #E2F5F1
+
+.BG08
+  background-color: #FECAB2
+
+.BG09
+  background: linear-gradient(to right, #FEEBCF 12%, #FEF7EB 12%)
+
+.tca
+  color: #FFB937
+
+.BGR05
+  border-radius: 15px 0 0 0
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .acordion__accion__btn--a
+  background-color: #09614D
+  color: #FFF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #FFE9DF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+.slyder-f__btn i
+  color: #09614D
+
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
+
+.tabla-a td
+  text-align: left !important
+
+.tarjetas-up
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    min-height: auto
+    left: 0
+    bottom: 0%
+    transform: translateY(calc(100% - 3.7rem))
+    padding: 1.5rem
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      transform: translateY(0)
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+
+.slyder-a__bullets__item--active
+  background-color: #09614D !important
+
+.slyder-a__bullets__item
+  background-color: #FFB937
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #09614D
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/bullets/arrow-white.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(180deg) !important
