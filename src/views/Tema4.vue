@@ -96,10 +96,8 @@
     
     p.mb-5 Los indicadores de gestión en un proyecto turístico en Colombia pueden organizarse en diversas categorías según los objetivos del proyecto y la información a monitorear. A continuación, se presentan las principales clasificaciones junto con sus aspectos clave:
 
-    .row.justify-content-center.mb-5
-      .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
-      .col-lg-8(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-acento-boton
           div(numero="1" titulo="Desempeño financiero")
             p.mb-0 Mide la rentabilidad del proyecto mediante indicadores como ingresos generados, costos operativos, margen de beneficio, tasa de ocupación e ingresos por visitante.
@@ -115,6 +113,8 @@
             p.mb-0 Evalúa la efectividad de las estrategias de marketing, el reconocimiento de marca, los canales de atracción de visitantes y el posicionamiento en plataformas digitales.
           div(numero="7" titulo="Seguridad y salud")
             p.mb-0 Monitorea la percepción de seguridad del destino, el registro de incidentes, el cumplimiento de protocolos sanitarios y la accesibilidad a servicios médicos.
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        img(src='@/assets/curso/tema4/img03.png' alt="Imagen decorativa")
 
     p Estos indicadores permiten una evaluación integral del desempeño del proyecto turístico, asegurando su sostenibilidad económica, social y ambiental, al tiempo que optimizan la experiencia del visitante y fortalecen el desarrollo local.
 

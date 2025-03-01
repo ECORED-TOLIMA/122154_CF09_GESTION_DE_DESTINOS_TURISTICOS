@@ -29,22 +29,33 @@
       .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        LineaTiempoD.color-acento-boton
-          div(numero="1" titulo="Metodología de Marco Lógico (MML)")
-            p.mb-0 Es una de las más empleadas en proyectos turísticos y sociales, ya que permite organizar el proyecto en función de objetivos claros, resultados esperados, actividades y medios de verificación. Este enfoque facilita la identificación de problemas, la definición de metas y la medición del impacto del proyecto.
-          div(numero="2" titulo="Planificación estratégica")
-            p.mb-0 Permite establecer la visión, misión y objetivos del proyecto en el contexto turístico. En esta etapa, se aplica el análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) para evaluar el entorno y definir estrategias que potencien la competitividad del destino.
-          div(numero="3" titulo="Guía de Formulación de Proyectos del Sistema Nacional de Evaluación de Gestión y Resultados (SINERGIA)")
-            p.mb-0 El Departamento Nacional de Planeación (DNP), proporciona herramientas y lineamientos específicos para la formulación de proyectos de inversión pública, incluyendo los proyectos turísticos. Esta guía establece los pasos para evaluar la viabilidad social, económica y ambiental, garantizando su alineación con las políticas nacionales.
-          div(numero="4" titulo="Enfoque de desarrollo sostenible")
-            p.mb-0 En concordancia con los Objetivos de Desarrollo Sostenible (ODS), los proyectos turísticos en Colombia se diseñan bajo un enfoque sostenible, minimizando impactos ambientales y promoviendo la inclusión de comunidades locales. Esto implica la incorporación de indicadores de sostenibilidad y la realización de estudios de impacto ambiental.
-          div(numero="5" titulo="Análisis de impacto económico y social")
-            p.mb-0 Todo proyecto turístico debe incluir estudios que permitan evaluar su rentabilidad y su contribución al desarrollo de la región. Esto abarca la estimación de empleos generados, el incremento de ingresos y los beneficios directos para la comunidad.
-          div(numero="6" titulo="Enfoque participativo")
-            p.mb-0 La inclusión de la comunidad local y otros actores clave en la formulación del proyecto es esencial para garantizar su coherencia con las necesidades del territorio. Este enfoque busca que las comunidades se beneficien directamente del desarrollo turístico.
-          div(numero="7" titulo="Criterios de competitividad y sustentabilidad del turismo")
-            p.mb-0 Colombia ha definido lineamientos específicos de competitividad turística enfocados en la calidad de la experiencia del visitante, el desarrollo de productos innovadores, la mejora de infraestructura y la optimización de servicios de soporte.
-
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Metodología de Marco Lógico (MML)
+          p.mb-0 Es una de las más empleadas en proyectos turísticos y sociales, ya que permite organizar el proyecto en función de objetivos claros, resultados esperados, actividades y medios de verificación. Este enfoque facilita la identificación de problemas, la definición de metas y la medición del impacto del proyecto.
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Planificación estratégica
+          p.mb-0 Permite establecer la visión, misión y objetivos del proyecto en el contexto turístico. En esta etapa, se aplica el análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) para evaluar el entorno y definir estrategias que potencien la competitividad del destino.
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Guía de Formulación de Proyectos del Sistema Nacional de Evaluación de Gestión y Resultados (SINERGIA)
+          p.mb-0 El Departamento Nacional de Planeación (DNP), proporciona herramientas y lineamientos específicos para la formulación de proyectos de inversión pública, incluyendo los proyectos turísticos. Esta guía establece los pasos para evaluar la viabilidad social, económica y ambiental, garantizando su alineación con las políticas nacionales.
+        
+    .row.justify-content-center.mb-5
+      .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Enfoque de desarrollo sostenible
+          p.mb-0 En concordancia con los Objetivos de Desarrollo Sostenible (ODS), los proyectos turísticos en Colombia se diseñan bajo un enfoque sostenible, minimizando impactos ambientales y promoviendo la inclusión de comunidades locales. Esto implica la incorporación de indicadores de sostenibilidad y la realización de estudios de impacto ambiental.
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Análisis de impacto económico y social
+          p.mb-0 Todo proyecto turístico debe incluir estudios que permitan evaluar su rentabilidad y su contribución al desarrollo de la región. Esto abarca la estimación de empleos generados, el incremento de ingresos y los beneficios directos para la comunidad.
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Enfoque participativo
+          p.mb-0 La inclusión de la comunidad local y otros actores clave en la formulación del proyecto es esencial para garantizar su coherencia con las necesidades del territorio. Este enfoque busca que las comunidades se beneficien directamente del desarrollo turístico.
+        .tarjeta.BG05.p-4.mb-4
+          .h4 Criterios de competitividad y sustentabilidad del turismo
+          p.mb-0 Colombia ha definido lineamientos específicos de competitividad turística enfocados en la calidad de la experiencia del visitante, el desarrollo de productos innovadores, la mejora de infraestructura y la optimización de servicios de soporte.
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        img(src='@/assets/curso/tema1/img19.png' alt="Imagen decorativa")
+        
     .BGIMG01.px-md-5.px-4.py-4.mb-5
       p.mb-5 Para la formulación de un proyecto turístico en Colombia, es fundamental seguir una serie de pasos estructurados que permitan su desarrollo efectivo y sostenible.
       SlyderF(columnas="col-lg-4 col-sm-6" data-aos="fade-right")

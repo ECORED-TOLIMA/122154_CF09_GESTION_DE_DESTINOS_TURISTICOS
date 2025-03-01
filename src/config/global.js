@@ -297,28 +297,129 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '4. Indicadores de gestión',
+      referencia:
+        'Ecosistema de Recursos Educativos SENA. (2022). Interpretación de indicadores de gestión (KPI) [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nCUYv5oPwJY',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '8. Presupuesto',
+      referencia:
+        'Ecosistema de Recursos Educativos SENA. (2022). Presupuesto del servicio guiado [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=JwhY34xdSmI',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Actividades',
+      significado:
+        'son acciones o tareas realizadas por individuos o grupos para alcanzar objetivos específicos. Pueden ser recreativas, educativas, laborales o sociales y contribuyen al desarrollo personal, comunitario o profesional.',
+    },
+    {
+      termino: 'Costos',
+      significado:
+        'son los gastos asociados a la producción de bienes o servicios. Incluyen materiales, mano de obra, y otros gastos operativos, y son fundamentales para la contabilidad y la gestión financiera de una empresa.',
+    },
+    {
+      termino: 'Gasto',
+      significado:
+        'se define como la salida de dinero que una persona o empresa realiza para adquirir bienes o servicios. Es un desembolso voluntario que no se recupera y se clasifica en diferentes tipos según su naturaleza, como gastos fijos, flexibles o discrecionales.',
+    },
+    {
+      termino: 'Indicadores de gestión',
+      significado:
+        'son métricas utilizadas para medir y evaluar el desempeño de una organización en diferentes áreas, ayudando a tomar decisiones estratégicas y mejorar la eficiencia y efectividad de los procesos.',
+    },
+    {
+      termino: 'Objetivos SMART',
+      significado:
+        'son metas específicas, medibles, alcanzables, relevantes y con un tiempo definido. Esta metodología ayuda a establecer objetivos claros y realistas, optimizando la planificación y el seguimiento de los progresos.',
+    },
+    {
+      termino: 'Plan de acción',
+      significado:
+        'es una estrategia organizada que detalla las tareas, recursos y responsables para alcanzar objetivos específicos en un tiempo determinado. Incluye mecanismos de seguimiento y control para asegurar su efectividad.',
+    },
+    {
+      termino: 'Plan financiero',
+      significado:
+        'es un documento que describe los objetivos financieros y las estrategias para alcanzarlos, incluyendo análisis de ingresos, gastos, y proyecciones financieras.',
+    },
+    {
+      termino: 'Plan de <em>marketing</em> y promoción',
+      significado:
+        'es un documento que define estrategias y acciones necesarias para alcanzar objetivos de <em>marketing</em>, considerando análisis de mercado, entorno, competidores, producto y presupuesto, optimizando recursos para lograr posicionamiento y ventas.',
+    },
+    {
+      termino: 'Plan de negocios',
+      significado:
+        'es un documento que detalla los objetivos de una empresa, la estrategia para alcanzarlos y la viabilidad económica del proyecto. Es fundamental para atraer inversores y guiar el desarrollo del negocio.',
+    },
+    {
+      termino: 'Presupuesto',
+      significado:
+        'es un plan financiero que establece los ingresos y gastos previstos de una persona, empresa o entidad durante un periodo específico. Sirve para gestionar recursos, controlar costos y tomar decisiones informadas.',
+    },
+    {
+      termino: 'Productividad local',
+      significado:
+        'se refiere a la creación y manufactura de bienes y servicios dentro de una comunidad específica, utilizando recursos locales. Este enfoque fomenta el desarrollo económico sostenible, la generación de empleo y la preservación de la identidad cultural de la región.',
+    },
+    {
+      termino: 'Proyecto turístico',
+      significado:
+        'es un plan estratégico destinado a desarrollar y promover un destino turístico. Incluye fases como planificación, ejecución y gestión, con el objetivo de atraer visitantes y generar beneficios económicos, sociales y culturales, asegurando la sostenibilidad y calidad de los servicios.',
+    },
+    {
+      termino: 'Recursos financieros',
+      significado:
+        'son los fondos que una empresa utiliza para llevar a cabo sus operaciones y cumplir con sus objetivos. Incluyen capital propio, efectivo, créditos y otros instrumentos que permiten financiar inversiones y operaciones diarias.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Acerenza, M. A. (2008). Gestión municipal del turismo (1a ed.). Editorial Trillas.',
+    },
+    {
+      referencia:
+        'Hernández Díaz, E. A. (2012). Proyectos turísticos: Formulación y evaluación (2a ed.). Editorial Trillas.',
+    },
+    {
+      referencia:
+        'Méndez, J. A. (2018). Manual para formulación y evaluación de proyectos turísticos: Herramientas técnicas para inversiones turísticas. Lima: Academia Global de Turismo.',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio Exterior y Turismo. (2014). Proyectos de inversión en el sector turismo en Colombia. Bogotá: Ministerio de Comercio Exterior y Turismo.',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo de Colombia. (2019). Lineamientos para el desarrollo de proyectos turísticos sostenibles.',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo de Colombia. (2020). Estrategia de turismo para Colombia.',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (2022). Turismo en armonía con la vida: Plan sectorial de turismo 2022-2026. Bogotá, Colombia: Ministerio de Comercio, Industria y Turismo. ',
+      link:
+        'https://www.mincit.gov.co/participa/consulta-ciudadana/20-12-2022-plan-sectorial-de-turismo-vfpp.aspx',
+    },
+    {
+      referencia:
+        'Morales Mejía, D., Vallejo Terreros, E. V., & López Guerrero, M. E. (1987). Financiamiento turístico: Fuentes internas y externas. Trillas.',
+    },
+    {
+      referencia:
+        'Ramírez, C. F. (2020). Estrategias para mejorar la productividad turística en regiones colombianas. Bogotá: Ediciones Turismo y Sociedad.',
+    },
+    {
+      referencia:
+        'Welsch, G. A., Hilton, R. W., & Gordon, P. N. (2005). Presupuestos: Planificación y control de utilidades (6a ed.). Pearson Prentice Hall.',
     },
   ],
   creditos: [
@@ -326,12 +427,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
-          cargo: 'Responsable del equipo',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Liliana Victoria Morales Gualdrón',
+          nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -341,9 +443,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Juan Carlos Camargo Solano',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Nacional de Hotelería, Turismo y Alimentos - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluadora instruccional ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -351,7 +459,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Oscar Ivan Uribe Ortiz',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
@@ -361,8 +474,13 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -371,18 +489,18 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Norma Constanza Morales Cruz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
