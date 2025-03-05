@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
-        p Para desarrollar un proyecto turístico en Colombia, es fundamental contar con recursos financieros que cubran tanto la inversión inicial como los costos operativos. El capital de inversión debe incluir la compra o adecuación de terrenos, la construcción o remodelación de infraestructura y la adquisición de mobiliario y equipos. Además, es necesario considerar los costos asociados a permisos legales, seguros y estrategias de publicidad y marketing para atraer visitantes y posicionar el proyecto en el mercado. Estos recursos pueden obtenerse a través de financiamiento privado, capital de riesgo y, en algunos casos, créditos gubernamentales o incentivos fiscales destinados a fomentar el turismo.
+        p Para desarrollar un proyecto turístico en Colombia, es fundamental contar con recursos financieros que cubran tanto la inversión inicial como los costos operativos. El capital de inversión debe incluir la compra o adecuación de terrenos, la construcción o remodelación de infraestructura y la adquisición de mobiliario y equipos. Además, es necesario considerar los costos asociados a permisos legales, seguros y estrategias de publicidad y #[em marketing] para atraer visitantes y posicionar el proyecto en el mercado. Estos recursos pueden obtenerse a través de financiamiento privado, capital de riesgo y, en algunos casos, créditos gubernamentales o incentivos fiscales destinados a fomentar el turismo.
         .BGIMG06.p-4
           .row.justify-content-center
             .col-lg-3.col-6.mb-lg-0.mb-4
@@ -40,7 +40,7 @@
           div(numero="3" titulo="Inversiones externas")
             p Capital de riesgo: inversión en proyectos con alto potencial de crecimiento.
             p Inversión extranjera directa (IED): fondos de inversionistas internacionales.
-            p.mb-0 Crowdfunding: financiamiento colectivo a cambio de beneficios futuros.
+            p.mb-0 #[em Crowdfunding]: financiamiento colectivo a cambio de beneficios futuros.
           div(numero="4" titulo="Apoyo gubernamental")
             p Subvenciones estatales y federales: fondos públicos para incentivar el turismo.
             p Fondos de turismo: recursos destinados a mejorar la infraestructura turística.
@@ -53,7 +53,7 @@
             p.mb-0 Fondos de cooperación internacional: apoyo financiero de países o bloques económicos.
 
     .row.justify-content-center.align-items-center
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
@@ -131,7 +131,7 @@
                       | Mantenimiento de instalaciones y equipos.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Insumos, seguridad y estrategias de marketing.
+                      p.mb-0 Insumos, seguridad y estrategias de #[em marketing].
               tr(data-aos="fade-right")
                 td Costos financieros y administrativos
                 td
@@ -172,16 +172,16 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img04.svg' alt="Imagen decorativa")
-          .tarjeta--boton.color-secundario.p-4.py-5.h-100
+          .tarjeta.BG04.p-4.py-5.h-100
             p.mt-4.mb-0 Evaluar costos por ubicación, ya que la variabilidad regional puede influir en los gastos de operación y construcción.
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")
         .tarjeta-avatar
           img(src='@/assets/curso/tema7/img05.svg' alt="Imagen decorativa")
-          .tarjeta--boton.color-secundario.p-4.py-5.h-100
+          .tarjeta.BG04.p-4.py-5.h-100
             p.mt-4.mb-0 La inversión en sostenibilidad, puede generar incentivos, pero implica costos iniciales.
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema7/img06.png' alt="Imagen decorativa")
+          img.w-75(src='@/assets/curso/tema7/img06.png' alt="Imagen decorativa")
 
     p Un análisis detallado de estos costos permite desarrollar un presupuesto realista y garantizar la viabilidad del proyecto a largo plazo.
 
@@ -203,15 +203,15 @@
             p Materiales y suministros: artículos de limpieza, amenidades, alimentos, bebidas, ropa de cama, entre otros.
             p Mantenimiento: reparaciones, jardinería, limpieza y mantenimiento de equipos.
             p.mb-0 Seguridad y salud ocupacional: equipos y medidas de seguridad para empleados y turistas.
-          div(numero="3" titulo="Gastos de marketing y promoción")
+          div(numero="3" titulo="Gastos de <em>marketing</em> y promoción")
             p Publicidad: anuncios en medios digitales, redes sociales y revistas de viajes.
             p Diseño de marca y experiencia del cliente: creación de identidad visual y campañas promocionales.
-            p.mb-0 Relaciones públicas y alianzas: colaboraciones con operadores turísticos, influencers y entidades locales.
+            p.mb-0 Relaciones públicas y alianzas: colaboraciones con operadores turísticos, #[em influencers] y entidades locales.
           div(numero="4" titulo="Gastos de infraestructura y acondicionamiento")
             p Construcción y remodelación: obras de alojamiento, senderos, áreas de recreación y espacios de servicio.
             p Fondos de turismo: inversiones sectoriales para el desarrollo de destinos y mejora de infraestructura.
             p Equipamiento: mobiliario, cocina, transporte y equipo recreativo.
-            p.mb-0 Tecnología y software: sistemas de reservas, CRM y gestión de pagos.
+            p.mb-0 Tecnología y #[em software]: sistemas de reservas, CRM y gestión de pagos.
           div(numero="5" titulo="Gastos regulatorios y legales")
             p Impuestos y tasas: IVA y otros impuestos aplicables al sector turístico colombiano.
             p Seguros: protección contra daños, responsabilidad civil, accidentes y otros riesgos.
@@ -230,7 +230,7 @@
         img(src='@/assets/curso/tema7/img07.png' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")

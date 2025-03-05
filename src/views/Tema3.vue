@@ -11,7 +11,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema3/img01.png' alt="Imagen decorativa")
       .col-lg-7(data-aos="fade-left")
-        p Un proyecto turístico en Colombia integra diversos elementos clave para garantizar su viabilidad, sostenibilidad y atractivo para los visitantes. En primer lugar, el diagnóstico y análisis de mercado permite identificar las necesidades y preferencias de los turistas, así como las oportunidades y limitaciones del entorno. Esto incluye la evaluación de la infraestructura existente, como transporte, accesos y alojamiento, así como el análisis de la oferta de atractivos naturales, culturales e históricos. También se estudia la competencia en la región para definir estrategias de diferenciación.
+        p Un proyecto turístico en Colombia integra diversos elementos clave para garantizar su viabilidad, sostenibilidad y atractivo para los visitantes. En primer lugar, el diagnóstico y análisis de mercado permiten identificar las necesidades y preferencias de los turistas, así como las oportunidades y limitaciones del entorno. Esto incluye la evaluación de la infraestructura existente, como transporte, accesos y alojamiento, así como el análisis de la oferta de atractivos naturales, culturales e históricos. También se estudia la competencia en la región para definir estrategias de diferenciación.
         .cajon.color-secundario.p-4
           .row.justify-content-center.align-items-center
             .col-lg-2.col-4.mb-lg-0.mb-4
@@ -20,15 +20,15 @@
               p.mb-0 La planificación y desarrollo de servicios turísticos es fundamental para ofrecer experiencias satisfactorias y seguras. Esto abarca la construcción y mejora de infraestructuras, incluyendo alojamientos, rutas de acceso, señalización y servicios básicos (agua, electricidad y saneamiento). Además, se prioriza la sostenibilidad ambiental, implementando prácticas de turismo responsable y conservación de los recursos.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
-        p.mb-0 Finalmente, el plan de marketing juega un papel clave en la promoción del destino. A través de campañas digitales y alianzas estratégicas con operadores turísticos, se busca atraer visitantes y posicionar la oferta en el mercado. Cada componente debe alinearse con las regulaciones locales para asegurar un proyecto rentable y con impacto positivo en la economía y la comunidad.
+        p.mb-0 Finalmente, el plan de #[em marketing] juega un papel clave en la promoción del destino. A través de campañas digitales y alianzas estratégicas con operadores turísticos, se busca atraer visitantes y posicionar la oferta en el mercado. Cada componente debe alinearse con las regulaciones locales para asegurar un proyecto rentable y con impacto positivo en la economía y la comunidad.
       
     separador
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 3.1 Método
+      h2 3.1 Objetivos
     
     p.mb-5 Los objetivos de un proyecto turístico en Colombia deben seguir el modelo SMART, es decir, ser específicos, medibles, alcanzables, relevantes y temporales. Estos orientan el desarrollo del proyecto y aseguran su impacto positivo. A continuación, se presentan los principales objetivos:
 
@@ -97,7 +97,7 @@
                   | Capacitar a 100 residentes en turismo sostenible y atención al cliente en el próximo año.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-plane-departure.tca
-                  | Implementar un plan de marketing cultural y gastronómico que incremente en un 30 % las ventas de productos locales.
+                  p.mb-0 Implementar un plan de #[em marketing] cultural y gastronómico que incremente en un 30 % las ventas de productos locales.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img10.png' alt="Imagen decorativa")
 
@@ -139,7 +139,7 @@
                 td Fortalecer la infraestructura y el servicio
                 td Capacitar al 100 % del personal de atención turística en San Andrés en servicio al cliente y sostenibilidad ambiental durante los primeros seis meses de operación del proyecto.
               tr(data-aos="fade-right")
-                td Incluir metas de marketing y visibilidad digital
+                td Incluir metas de #[em marketing] y visibilidad digital
                 td Alcanzar 10.000 seguidores en redes sociales y aumentar en un 15 % las reservas a través del sitio web del proyecto en su primer año.
               tr(data-aos="fade-right")
                 td Medir el impacto económico y social en la comunidad local
@@ -176,7 +176,7 @@
                 td Planificar actividades culturales, ecoturísticas, de aventura y comunitarias.
               tr(data-aos="fade-right")
                 td Planificación y ejecución
-                td Crear un calendario, asignar recursos y definir estrategias de marketing.
+                td Crear un calendario, asignar recursos y definir estrategias de #[em marketing].
               tr(data-aos="fade-right")
                 td Sostenibilidad y comunidad
                 td Aplicar prácticas responsables, integrar a la comunidad y fomentar la educación ambiental.
@@ -256,7 +256,7 @@
                       | Elaboración del plan de negocios (estudio de viabilidad y análisis financiero).
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Diseño del plan de marketing y estrategia de marca.
+                      p.mb-0 Diseño del plan de #[em marketing] y estrategia de marca.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Determinación de la ubicación y requisitos de permisos.
@@ -329,13 +329,13 @@
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Capacitación del personal y voluntarios.
               tr(data-aos="fade-right")
-                td Marketing y promoción
+                td #[em Marketing] y promoción
                 td 3-6 meses antes de la apertura
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Creación de campañas de marketing digital y tradicional.
+                      | Creación de campañas de #[em marketing] digital y tradicional.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Alianzas con agencias de turismo y redes locales.
@@ -392,7 +392,7 @@
                       | Encuestas de satisfacción y retroalimentación de visitantes.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Evaluación y ajuste del plan de marketing.
+                      p.mb-0 Evaluación y ajuste del plan de #[em marketing].
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Generación de informes de resultados para inversionistas y actores clave.

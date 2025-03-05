@@ -17,7 +17,7 @@
               p.mb-0 #[b Plan de viabilidad:] evalúa la rentabilidad del proyecto mediante el análisis de costos, ingresos proyectados y retorno de inversión.
             li(style="margin-bottom: 2px")
               i.fas.fa-plane-departure.tca
-              p.mb-0 #[b Plan de marketing:] define estrategias de promoción, segmentación de mercado y posicionamiento.
+              p.mb-0 #[b Plan de #[em marketing]:] define estrategias de promoción, segmentación de mercado y posicionamiento.
             li(style="margin-bottom: 2px")
               i.fas.fa-plane-departure.tca
               p.mb-0 #[b Plan financiero:] detalla la estructura de financiamiento, incluyendo inversiones y flujo de caja.
@@ -37,7 +37,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-10.order-lg-1.order-2(data-aos="fade-right")
-        p.mb-0 El plan de acción del proyecto turístico tiene como objetivo impulsar el desarrollo sostenible y el crecimiento económico de la región a través de la promoción de sus atractivos naturales y culturales. Como parte de esta estrategia, se implementará un plan de marketing digital enfocado en atraer visitantes nacionales e internacionales, resaltando la autenticidad de la experiencia local. Además, se establecerán alianzas con negocios locales para diseñar paquetes turísticos que fortalezcan la economía de la comunidad.
+        p.mb-0 El plan de acción del proyecto turístico tiene como objetivo impulsar el desarrollo sostenible y el crecimiento económico de la región a través de la promoción de sus atractivos naturales y culturales. Como parte de esta estrategia, se implementará un plan de #[em marketing] digital enfocado en atraer visitantes nacionales e internacionales, resaltando la autenticidad de la experiencia local. Además, se establecerán alianzas con negocios locales para diseñar paquetes turísticos que fortalezcan la economía de la comunidad.
       .col-lg-2.col-4.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img02.png' alt="Imagen decorativa")
 
@@ -105,7 +105,7 @@
                   | Planificar la infraestructura turística (centro de visitantes, señalización y puntos de información).
             td Plan detallado de experiencias y servicios turísticos.
           tr(data-aos="fade-right")
-            td Plan de marketing y promoción
+            td Plan de #[em marketing] y promoción
             td Dar a conocer el proyecto y atraer al turista objetivo.
             td
               ul.lista-ul--color
@@ -114,14 +114,14 @@
                   | Diseñar una identidad visual y marca atractiva.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
-                  | Implementar estrategias de marketing digital y tradicional (redes sociales, sitio web, blogs o influencers).
+                  p.mb-0 Implementar estrategias de #[em marketing] digital y tradicional (redes sociales, sitio web, blogs o #[em influencers]).
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
                   | Planificar promociones y descuentos de lanzamiento.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
                   | Participar en ferias y eventos turísticos.
-            td Estrategia de marketing con cronograma y presupuesto.
+            td Estrategia de #[em marketing] con cronograma y presupuesto.
           tr(data-aos="fade-right")
             td Evaluación de impacto ambiental y social
             td Garantizar que el proyecto sea sostenible y beneficie a la comunidad local.
@@ -188,7 +188,7 @@
       h2 2.2 Plan operativo para la implementación de un proyecto   
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
@@ -223,7 +223,7 @@
                 | Identificar los recursos necesarios (financieros, humanos, materiales y tecnológicos).
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #09614D;")
-                p.mb-0 #[b Ejemplo]: responsable (agencia de marketing local) y recurso (presupuesto para anuncios digitales).
+                p.mb-0 #[b Ejemplo]: responsable (agencia de #[em marketing] local) y recurso (presupuesto para anuncios digitales).
           div(numero="4" titulo="Cronograma de ejecución")
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
@@ -269,7 +269,7 @@
                 | Definir un plan de comunicación interna y externa para informar sobre los avances del proyecto.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #09614D;")
-                | Establecer medios y frecuencia de comunicación con stakeholders como socios comerciales, inversionistas y organismos gubernamentales.
+                p.mb-0 Establecer medios y frecuencia de comunicación con #[em stakeholders] como socios comerciales, inversionistas y organismos gubernamentales.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
         

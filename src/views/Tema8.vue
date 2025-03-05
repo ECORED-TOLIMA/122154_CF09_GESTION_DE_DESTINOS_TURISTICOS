@@ -11,13 +11,13 @@
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema8/img01.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
-        p Este apartado aborda de manera integral el proceso de elaboración de un presupuesto para un proyecto turístico, un componente fundamental para garantizar la correcta planificación financiera y operativa. La creación de un presupuesto detallado y bien estructurado es esencial para evaluar la viabilidad económica del proyecto, ya que permite prever los recursos necesarios, identificar las fuentes de ingreso, y gestionar de forma eficiente los costos. Un presupuesto bien elaborado no solo establece las bases para el éxito financiero, sino que también brinda una visión clara sobre el desempeño esperado, ayudando a tomar decisiones estratégicas informadas.
+        p Este apartado aborda de manera integral el proceso de elaboración de un presupuesto para un proyecto turístico, un componente fundamental para garantizar la correcta planificación financiera y operativa. La creación de un presupuesto detallado y bien estructurado es esencial para evaluar la viabilidad económica del proyecto, ya que permite prever los recursos necesarios, identificar las fuentes de ingreso y gestionar de forma eficiente los costos. Un presupuesto bien elaborado no solo establece las bases para el éxito financiero, sino que también brinda una visión clara sobre el desempeño esperado, ayudando a tomar decisiones estratégicas informadas.
         .cajon.color-secundario.p-4
-          p.mb-0 La capacidad de un proyecto turístico para generar ingresos sostenibles a largo plazo depende en gran medida de la precisión y eficacia con que se gestione su presupuesto. Es crucial que el presupuesto cubra todas las áreas clave, desde los costos de inversión inicial hasta los gastos operativos recurrentes, y contemple una planificación adecuada para mitigar riesgos financieros. Además, el presupuesto debe servir como una herramienta de control y seguimiento, permitiendo ajustes durante la ejecución del proyecto para optimizar el uso de los recursos y maximizar la rentabilidad. Al realizar este proceso de manera meticulosa, se fortalece la probabilidad de éxito del proyecto y se fomenta la confianza de inversionistas y socios estratégicos.
+          p.mb-0 La capacidad de un proyecto turístico para generar ingresos sostenibles a largo plazo depende en gran medida de la precisión y eficacia con que se gestione su presupuesto. Es crucial que el presupuesto cubra todas las áreas clave, desde los costos de inversión inicial hasta los gastos operativos recurrentes, y contemple una planificación adecuada para mitigar riesgos financieros. Además el presupuesto debe servir como una herramienta de control y seguimiento, permitiendo ajustes durante la ejecución del proyecto para optimizar el uso de los recursos y maximizar la rentabilidad. Al realizar este proceso de manera meticulosa, se fortalece la probabilidad de éxito del proyecto y se fomenta la confianza de inversionistas y socios estratégicos.
 
     separador
     #t_8_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 8.1 Tipos
+      h2 8.1 Generalidades y aspectos clave
 
     p.mb-5 Para elaborar el presupuesto de un proyecto turístico, se deben considerar los siguientes puntos clave:
       
@@ -31,7 +31,7 @@
           div(titulo="Proyecciones de ingresos")
             p.mb-0 Establecer proyecciones realistas de ingresos basadas en la estimación de la demanda de los servicios turísticos, los precios de los servicios, y el volumen de ventas esperado.
           div(titulo="Costos operativos")
-            p.mb-0 Detallar los costos operativos recurrentes, como salarios, materiales, mantenimiento, marketing y otros gastos operacionales.
+            p.mb-0 Detallar los costos operativos recurrentes, como salarios, materiales, mantenimiento, #[em marketing] y otros gastos operacionales.
           div(titulo="Rentabilidad y análisis financiero")
             p.mb-0 Evaluar la rentabilidad del proyecto, mediante la comparación de los costos estimados con los ingresos proyectados, y el análisis de indicadores como el punto de equilibrio, el retorno sobre la inversión (ROI), y el flujo de caja.
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -62,7 +62,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 Estimación de costos
-            p.mb-0 En este paso, se deben estimar los costos tanto directos como indirectos del proyecto. Los costos directos incluyen aquellos vinculados de manera directa con la ejecución del proyecto, como construcción, marketing, y adquisición de equipamiento. Los costos indirectos, por su parte, comprenden gastos generales, administración, transporte, entre otros, que no están directamente relacionados con la actividad principal pero que son necesarios para su ejecución.
+            p.mb-0 En este paso, se deben estimar los costos tanto directos como indirectos del proyecto. Los costos directos incluyen aquellos vinculados de manera directa con la ejecución del proyecto, como construcción, #[em marketing], y adquisición de equipamiento. Los costos indirectos, por su parte, comprenden gastos generales, administración, transporte, entre otros, que no están directamente relacionados con la actividad principal pero que son necesarios para su ejecución.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img05.jpg' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center
@@ -92,12 +92,12 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 Herramientas adicionales
-            p.mb-0 Para optimizar tanto la elaboración como el control del presupuesto, se recomienda el uso de herramientas tecnológicas, como hojas de cálculo, software de gestión de proyectos y plataformas financieras. Estas herramientas permiten una gestión más precisa y eficiente de los recursos y los gastos, facilitando la toma de decisiones informadas a lo largo del proceso.
+            p.mb-0 Para optimizar tanto la elaboración como el control del presupuesto, se recomienda el uso de herramientas tecnológicas, como hojas de cálculo, #[em software] de gestión de proyectos y plataformas financieras. Estas herramientas permiten una gestión más precisa y eficiente de los recursos y los gastos, facilitando la toma de decisiones informadas a lo largo del proceso.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img10.jpg' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
@@ -112,7 +112,7 @@
         figure
           img(src='@/assets/curso/tema8/img11.png' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
-        p.mb-0 presupuesto realista y eficaz, que sirva como guía en la toma de decisiones. A continuación, se describen los elementos clave que deben integrarse:
+        p.mb-0 El presupuesto turístico debe considerar varios elementos clave que permitan una gestión adecuada de los recursos y aseguren el éxito financiero del proyecto. Estos elementos son fundamentales para elaborar un presupuesto realista y eficaz, que sirva como guía en la toma de decisiones. A continuación, se describen los elementos clave que deben integrarse:
     
     .BGM10.px-md-5.px-4
       PasosA.color-acento-contenido.mb-5(tipo="l")
@@ -152,9 +152,9 @@
         p La evaluación constante del presupuesto durante todo el ciclo del proyecto es esencial para asegurar que el proyecto se mantenga dentro de los márgenes establecidos y que los recursos se utilicen de manera eficiente. Además, deben realizarse ajustes según sea necesario para responder a cambios en el entorno, en la demanda de servicios turísticos o en los costos operativos. A continuación, se describen las prácticas clave para llevar a cabo la evaluación y los ajustes del presupuesto turístico:
         LineaTiempoD.color-acento-boton
           div(numero="1" titulo="Monitoreo continuo de los gastos")
-            p.mb-0 Es importante realizar un seguimiento constante de los gastos a lo largo del proyecto para asegurarse de que se ajusten al presupuesto inicial. Este monitoreo permite identificar desviaciones en tiempo real y tomar medidas correctivas antes de que se conviertan en problemas significativos. La implementación de un sistema de control financiero, como un software de gestión de proyectos, facilita la visibilidad de los gastos y el rendimiento financiero del proyecto.
+            p.mb-0 Es importante realizar un seguimiento constante de los gastos a lo largo del proyecto para asegurarse de que se ajusten al presupuesto inicial. Este monitoreo permite identificar desviaciones en tiempo real y tomar medidas correctivas antes de que se conviertan en problemas significativos. La implementación de un sistema de control financiero, como un #[em software] de gestión de proyectos, facilita la visibilidad de los gastos y el rendimiento financiero del proyecto.
           div(numero="2" titulo="Revisión periódica de los ingresos")
-            p.mb-0 Además de controlar los gastos, es crucial evaluar los ingresos proyectados frente a los ingresos reales generados. Las proyecciones pueden necesitar ajustes si la demanda de servicios turísticos varía debido a factores estacionales, económicos o sociales. Una revisión periódica permite realizar modificaciones en las estrategias de marketing, precios y ventas para maximizar los ingresos durante el ciclo del proyecto.
+            p.mb-0 Además de controlar los gastos, es crucial evaluar los ingresos proyectados frente a los ingresos reales generados. Las proyecciones pueden necesitar ajustes si la demanda de servicios turísticos varía debido a factores estacionales, económicos o sociales. Una revisión periódica permite realizar modificaciones en las estrategias de #[em marketing], precios y ventas para maximizar los ingresos durante el ciclo del proyecto.
           div(numero="3" titulo="Identificación y análisis de desviaciones")
             p.mb-0 Cuando se identifican desviaciones significativas entre el presupuesto original y la ejecución real, es necesario analizar sus causas. Las desviaciones pueden ser tanto positivas como negativas: si los costos son más bajos de lo esperado, podrían aprovecharse para reinvertir en el proyecto o mejorar la rentabilidad; si son más altos, se deben revisar los procesos operativos, optimizar recursos y buscar alternativas para reducir costos.
           div(numero="4" titulo="Ajustes de planificación y control")
@@ -169,7 +169,7 @@
         img(src='@/assets/curso/tema8/img12.png' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")
@@ -177,7 +177,7 @@
     
     separador
     #t_8_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 8.5 Evaluación
+      h2 8.5 Herramientas adicionales para la elaboración y control del presupuesto
     
     p.mb-5 Para elaborar un presupuesto para un proyecto turístico, se emplean varias herramientas que ayudan a estimar los costos, administrar recursos y prever ingresos. Estas son algunas de las herramientas y técnicas clave
 
@@ -197,13 +197,13 @@
                 td Hojas de cálculo (Excel y Google Sheets)
                 td Las hojas de cálculo siguen siendo una de las herramientas más utilizadas para la elaboración de presupuestos. Ofrecen flexibilidad para personalizar los modelos de presupuesto según las necesidades del proyecto, y permiten llevar un control detallado de los costos e ingresos. Además, su facilidad de uso y las funciones avanzadas, como las fórmulas, gráficos y tablas dinámicas, hacen que las hojas de cálculo sean una opción accesible para proyectos de cualquier tamaño.
               tr(data-aos="fade-right")
-                td Software de gestión de proyectos (Trello, Asana y Monday.com)
+                td #[em Software] de gestión de proyectos (Trello, Asana y Monday.com)
                 td Estos programas permiten no solo la planificación de tareas y actividades, sino también la asignación de recursos financieros a cada fase del proyecto. Son ideales para proyectos colaborativos, ya que permiten que el equipo de trabajo acceda en tiempo real a la información actualizada sobre el presupuesto y los avances del proyecto. Además, integran herramientas de seguimiento que ayudan a controlar los costos y plazos de manera más eficiente.
               tr(data-aos="fade-right")
                 td Plataformas de gestión financiera (QuickBooks, Xero y FreshBooks)
                 td Las plataformas de gestión financiera están diseñadas para automatizar la contabilidad y el control de los presupuestos. Estas herramientas ofrecen funcionalidades como la conciliación bancaria, la generación de informes financieros, y la integración con cuentas bancarias y proveedores. Son útiles para proyectos turísticos de mayor envergadura, ya que proporcionan un control detallado de los flujos de caja, la rentabilidad y los impuestos, y pueden integrarse con otras herramientas de gestión.
               tr(data-aos="fade-right")
-                td Software de planificación y análisis financiero (Microsoft Project, SAP y Oracle)
+                td #[em Software] de planificación y análisis financiero (Microsoft Project, SAP y Oracle)
                 td Estos sistemas son más sofisticados y se utilizan principalmente en proyectos grandes y complejos. Permiten realizar una planificación financiera más detallada, gestionar múltiples recursos y seguir el avance del presupuesto en tiempo real. También ofrecen capacidades avanzadas de análisis de datos, lo que permite identificar tendencias, prever necesidades de financiamiento y ajustar los costos según los resultados obtenidos.
               tr(data-aos="fade-right")
                 td Aplicaciones de contabilidad en la nube (Zoho Books y Wave)
@@ -215,7 +215,7 @@
                 td Herramientas de análisis de rentabilidad (ProfitCents y PlanGuru)
                 td Estas herramientas están orientadas a evaluar la rentabilidad y viabilidad financiera de proyectos. A través de simulaciones y análisis de escenarios, permiten determinar el retorno de inversión (ROI) y otros indicadores clave de rendimiento. Son fundamentales para realizar una evaluación precisa del impacto financiero a largo plazo de un proyecto turístico y para ajustar las estrategias según los resultados obtenidos.
               tr(data-aos="fade-right")
-                td Software de control de riesgos (RiskWatch y Active Risk Manager)
+                td #[em Software] de control de riesgos (RiskWatch y Active Risk Manager)
                 td La gestión de riesgos financieros es esencial para asegurar que el proyecto se mantenga dentro de los márgenes previstos. Las herramientas de control de riesgos ayudan a identificar, evaluar y mitigar los riesgos financieros que puedan afectar el presupuesto. Permiten realizar un análisis detallado de los posibles imprevistos y elaborar estrategias de contingencia para minimizar su impacto.
 
     p Estas herramientas no solo facilitan la organización y seguimiento de los recursos financieros, sino que también ayudan a mejorar la eficiencia en la gestión del presupuesto, lo que aumenta las probabilidades de éxito del proyecto turístico.

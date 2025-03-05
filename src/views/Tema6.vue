@@ -28,7 +28,7 @@
                 td Evalúa la viabilidad del proyecto mediante análisis de mercado, técnico, financiero y legal.
               tr(data-aos="fade-right")
                 td Plan de negocios
-                td Define la estrategia del proyecto, incluyendo su misión, visión, análisis de mercado y estrategia de marketing.
+                td Define la estrategia del proyecto, incluyendo su misión, visión, análisis de mercado y estrategia de #[em marketing].
               tr(data-aos="fade-right")
                 td Plan de financiamiento
                 td Establece la estructura de costos, fuentes de financiamiento y proyección de ingresos.
@@ -98,7 +98,7 @@
             .col-8
               img(src='@/assets/curso/tema6/img08.svg' alt="Imagen decorativa")
           .h4 G. Presupuesto y financiamiento
-          p Elaboración del presupuesto: definir costos operativos, de marketing y desarrollo de productos.
+          p Elaboración del presupuesto: definir costos operativos, de #[em marketing] y desarrollo de productos.
           p.mb-0 Búsqueda de financiamiento: identificar fuentes de financiamiento, como inversiones privadas, subvenciones y créditos.
         .tarjeta.BGIMG02.p-4
           .row.justify-content-center.mb-4
@@ -139,7 +139,7 @@
             p Investigación de mercado: estudio de la demanda turística en la región, tendencias del sector y preferencias de los visitantes.
             p Segmentación del mercado: identificación del público objetivo (turistas nacionales, internacionales y grupos específicos)
             p.mb-0 Análisis de la competencia: evaluación de otros negocios turísticos en la zona, sus fortalezas y áreas de mejora.
-          div(numero="c" titulo="Plan de marketing")
+          div(numero="c" titulo="Plan de <em>marketing</em>")
             p Estrategia de promoción: definición de las acciones para atraer clientes (publicidad, redes sociales y promociones)
             p Posicionamiento de marca: estrategia para diferenciarse en el mercado y generar reconocimiento.
             p.mb-0 Estrategia de precios: definición de tarifas en relación con la competencia y la propuesta de valor.
@@ -255,7 +255,7 @@
               .h4 Plan de implementación
               p.mb-1 - Cronograma detallado de actividades.
               p.mb-1 - Recursos necesarios (financieros, humanos y logísticos).
-              p.mb-0 - Estrategia de marketing y promoción para el posicionamiento del proyecto.
+              p.mb-0 - Estrategia de #[em marketing] y promoción para el posicionamiento del proyecto.
       .col-lg-6.col-sm-10.mb-4(data-aos="fade-right")
         .tarjeta.BG09.p-4.h-100
           .row.justify-content-center.align-items-center
@@ -291,7 +291,7 @@
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.4 Herramientas
     
-    p.mb-5 Para desarrollar un proyecto turístico de manera eficiente, se emplean diversas herramientas en planificación, gestión, marketing y evaluación. A continuación, se presentan algunas de las más utilizadas:
+    p.mb-5 Para desarrollar un proyecto turístico de manera eficiente, se emplean diversas herramientas en planificación, gestión, #[em marketing] y evaluación. A continuación, se presentan algunas de las más utilizadas:
 
     .BGIMG05.p-4.mb-5
       .tarjeta.tarjeta--blanca.p-4
@@ -299,7 +299,7 @@
           .row.justify-content-center(titulo="A")
             .col-lg-6.order-lg-1.order-2
               .h4 A)	Herramientas de planificación:
-              p Software de gestión de proyectos: aplicaciones como Trello, Asana o Microsoft Project ayudan a organizar tareas, asignar responsabilidades y establecer plazos.
+              p #[em Software] de gestión de proyectos: aplicaciones como Trello, Asana o Microsoft Project ayudan a organizar tareas, asignar responsabilidades y establecer plazos.
               p Análisis SWOT: técnica utilizada para identificar fortalezas, debilidades, oportunidades y amenazas del proyecto.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img24.png', alt="Imagen decorativa")
@@ -313,21 +313,21 @@
           .row.justify-content-center(titulo="C")
             .col-lg-6.order-lg-1.order-2
               .h4 C)	Herramientas para el desarrollo de contenidos:
-              p Software de edición de imágenes y videos: aplicaciones como Adobe Photoshop y Premiere permiten crear contenido visual atractivo para promocionar el proyecto.
+              p #[em Software] de edición de imágenes y videos: aplicaciones como Adobe Photoshop y Premiere permiten crear contenido visual atractivo para promocionar el proyecto.
               p Plataformas de Gestión de Contenidos (CMS): WordPress o Joomla facilitan la creación y administración de sitios web.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img26.png', alt="Imagen decorativa")
           .row.justify-content-center(titulo="D")
             .col-lg-6.order-lg-1.order-2
-              .h4 D)	Herramientas de marketing y promoción:
+              .h4 D)	Herramientas de #[em marketing] y promoción:
               p Gestión de redes sociales: plataformas como Hootsuite o Buffer permiten programar publicaciones y analizar el impacto en redes sociales.
-              p Email marketing: servicios como Mailchimp ayudan a crear campañas de correo electrónico dirigidas a clientes potenciales.
+              p Email #[em marketing]: servicios como Mailchimp ayudan a crear campañas de correo electrónico dirigidas a clientes potenciales.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img27.png', alt="Imagen decorativa")
           .row.justify-content-center(titulo="E")
             .col-lg-6.order-lg-1.order-2
               .h4 E)	Herramientas de gestión financiera:
-              p Software de contabilidad: aplicaciones como QuickBooks o Xero permiten llevar el control financiero del proyecto.
+              p #[em Software] de contabilidad: aplicaciones como QuickBooks o Xero permiten llevar el control financiero del proyecto.
               p Análisis de costos: hojas de cálculo como Excel o Google Sheets facilitan la proyección y el análisis de costos operativos.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img28.png', alt="Imagen decorativa")
@@ -335,7 +335,7 @@
             .col-lg-6.order-lg-1.order-2
               .h4 F)	Herramientas de evaluación y mejora:
               p Indicadores de Desempeño (KPIs): herramientas como Google Analytics ayudan a medir el éxito del proyecto en función de objetivos establecidos.
-              p Feedback de clientes: plataformas de reseñas y testimonios permiten recoger opiniones de turistas para mejorar los servicios.
+              p #[em Feedback] de clientes: plataformas de reseñas y testimonios permiten recoger opiniones de turistas para mejorar los servicios.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img29.png', alt="Imagen decorativa")
           .row.justify-content-center(titulo="G")
@@ -347,7 +347,7 @@
               img(src='@/assets/curso/tema6/img30.png', alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")

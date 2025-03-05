@@ -96,7 +96,7 @@
           p.mb-0 #[b G.	Monitoreo y evaluación:] se lleva a cabo un seguimiento constante para verificar que el proyecto avance según lo planificado y, en caso necesario, se ajustan las estrategias para mejorar su impacto.
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+      .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
       .col-lg-11.col-10(data-aos="fade-left")

@@ -17,23 +17,23 @@
             figure
               img(src='@/assets/curso/tema9/img01.png', alt="Imagen decorativa")
           .tarjeta.BG07.p-3(x="20%" y="15.8%" numero="1")
-            p.mb-0 Registro Nacional de Turismo (RNT): obligatorio para acceder a beneficios fiscales y gubernamentales.
+            p.mb-0 Obligatorio para acceder a beneficios fiscales y gubernamentales.
           .tarjeta.BG07.p-3(x="50%" y="15.8%" numero="2")
-            p.mb-0 Plan de negocios y viabilidad financiera: incluye proyecciones de ingresos, gastos y retorno de la inversión.
+            p.mb-0 Incluye proyecciones de ingresos, gastos y retorno de la inversión.
           .tarjeta.BG07.p-3(x="80%" y="15.8%" numero="3")
-            p.mb-0 Cumplimiento fiscal: obligaciones ante la DIAN, incluyendo impuestos sobre la renta y el IVA.
+            p.mb-0 Obligaciones ante la DIAN, incluyendo impuestos sobre la renta y el IVA.
           .tarjeta.BG07.p-3(x="20%" y="35.5%" numero="4")
-            p.mb-0 Cumplimiento ambiental: cumplimiento con las normativas de sostenibilidad y obtención de licencias ambientales.
+            p.mb-0 Cumplimiento con las normativas de sostenibilidad y obtención de licencias ambientales.
           .tarjeta.BG07.p-3(x="50%" y="35.5%" numero="5")
-            p.mb-0 Estructura de financiamiento: requiere una estructura de capital adecuada, con fuentes públicas y privadas.
+            p.mb-0 Requiere una estructura de capital adecuada, con fuentes públicas y privadas.
           .tarjeta.BG07.p-3(x="80%" y="35.5%" numero="6")
-            p.mb-0 Seguros y garantías: cobertura de responsabilidad civil y otros riesgos asociados.
+            p.mb-0 Cobertura de responsabilidad civil y otros riesgos asociados.
           .tarjeta.BG07.p-3(x="20%" y="55.2%" numero="7")
-            p.mb-0 Cumplimiento laboral y de seguridad social: afiliación de trabajadores y cumplimiento con la SIC.
+            p.mb-0 Afiliación de trabajadores y cumplimiento con la SIC.
           .tarjeta.BG07.p-3(x="50%" y="55.2%" numero="8")
-            p.mb-0 Responsabilidad social y sostenibilidad: prácticas de turismo responsable y sostenible.
+            p.mb-0 Prácticas de turismo responsable y sostenible.
           .tarjeta.BG07.p-3(x="80%" y="55.2%" numero="9")
-            p.mb-0 Auditoría y reporte financiero: monitoreo de la gestión financiera y auditorías periódicas.
+            p.mb-0 Monitoreo de la gestión financiera y auditorías periódicas.
       .col-lg-10.d-lg-none.d-flex
         figure
           img(src='@/assets/curso/tema9/img01.svg', alt="Imagen decorativa")
@@ -88,22 +88,22 @@
       .col-lg-9(data-aos="fade-right")
         .row.justify-content-center
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
+            .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Recursos públicos: Ministerio de Comercio, Industria y Turismo, y gobiernos regionales.
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
+            .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Bancos y entidades financieras: créditos y líneas de financiamiento específicas.
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
+            .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Fondo Nacional de Turismo (FONTUR): financiamiento para proyectos turísticos.
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
+            .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Organismos internacionales: BID, CAF, Banco Mundial, entre otros.
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
-              p.mb-0 Inversión privada y crowdfunding: inversores y plataformas de financiación colectiva.
+            .tarjeta.BGIMG07.p-4.py-5.h-100
+              p.mb-0 Inversión privada y #[em crowdfunding]: inversores y plataformas de financiación colectiva.
           .col-lg-4.col-sm-6.mb-4
-            .tarjeta--boton.color-secundario.p-4.py-5.h-100
+            .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Cooperativas y asociaciones: apoyo de entidades sin ánimo de lucro.
       .col-lg-3.d-lg-flex.d-none
         img.w-100(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
@@ -141,7 +141,7 @@
                   p.mb-0 #[b Estudio de viabilidad:] evaluación de factibilidad económica y técnica.
                 li(style="margin-bottom: 2px")
                   i.fa-solid.fa-plane.tca
-                  p.mb-0 #[b Plan de marketing:] estrategias para promocionar el destino.
+                  p.mb-0 #[b Plan de #[em marketing]:] estrategias para promocionar el destino.
                 li(style="margin-bottom: 2px")
                   i.fa-solid.fa-plane.tca
                   p.mb-0 #[b Impacto ambiental y social:] evaluación de impactos y estrategias de mitigación.

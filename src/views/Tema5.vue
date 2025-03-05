@@ -25,7 +25,7 @@
               | Capacitación y empleo, pues la formación del talento humano en servicio y hospitalidad es clave para mejorar la atención al visitante y fortalecer la economía local.
             li(style="margin-bottom: 2px")
               i.fas.fa-solid.fa-plane.tca
-              | Innovación y tecnología, ya que el uso de herramientas digitales y estrategias de marketing aumenta la visibilidad y competitividad de los destinos.
+              p.mb-0 Innovación y tecnología, ya que el uso de herramientas digitales y estrategias de #[em marketing] aumenta la visibilidad y competitividad de los destinos.
             li(style="margin-bottom: 2px")
               i.fas.fa-solid.fa-plane.tca
               | Sostenibilidad, pues la adopción de prácticas responsables que protejan el medio ambiente y la cultura local incrementa el atractivo del destino a largo plazo.
@@ -103,7 +103,7 @@
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema5/img11.svg' alt="Imagen decorativa")
-          p.mt-4.mb-0 Marketing y publicidad, fundamentales para la promoción del destino y la atracción de visitantes.
+          p.mt-4.mb-0 #[em Marketing] y publicidad, fundamentales para la promoción del destino y la atracción de visitantes.
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
@@ -151,7 +151,7 @@
               .col-lg-10
                 p.mb-0 En los proyectos turísticos de Colombia, la sostenibilidad juega un papel crucial, especialmente en regiones con alta biodiversidad. Un desarrollo sostenible depende de una gestión del factor productivo que minimice el impacto ambiental y de un factor humano comprometido con prácticas responsables y respetuosas con el entorno y las culturas locales.
           .row.justify-content-center.align-items-center
-            .col-lg-1.col-2.mb-lg-0.mb-4(data-aos="fade-right")
+            .col-lg-1.col-2.px-0.mb-lg-0.mb-4(data-aos="fade-right")
               figure
                 img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
             .col-lg-11.col-10(data-aos="fade-left")
@@ -200,7 +200,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema5/img19.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -211,7 +211,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema5/img20.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -222,7 +222,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema5/img21.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -234,7 +234,7 @@
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p El turismo en Colombia tiene el potencial de generar beneficios económicos y culturales, pero requiere planificación para mitigar los impactos negativos en el medio ambiente y en las comunidades locales. Un turismo sostenible, que respete las capacidades de carga de cada destino y se adapte a las características de cada región, es fundamental para preservar el patrimonio natural y cultural del país.
         .row.justify-content-center.align-items-center
-            .col-lg-1.col-2.mb-lg-0.mb-4
+            .col-lg-1.col-2.px-0.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
             .col-lg-11.col-10

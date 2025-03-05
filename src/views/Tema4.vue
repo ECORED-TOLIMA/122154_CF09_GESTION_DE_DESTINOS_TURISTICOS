@@ -37,7 +37,7 @@
                       | Retorno de Inversión (ROI): permite medir la rentabilidad del proyecto, comparando las ganancias generadas frente a la inversión inicial. Un ROI alto indica que el proyecto está generando ingresos suficientes para cubrir los costos y generar beneficios adicionales.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Costo de Adquisición de Clientes (CAC): evalúa el costo de atraer a cada visitante, considerando gastos en marketing y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
+                      p.mb-0 Costo de Adquisición de Clientes (CAC): evalúa el costo de atraer a cada visitante, considerando gastos en #[em marketing] y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Ingresos por visitante: mide el promedio de ingresos generados por cada turista durante su visita. Este indicador ayuda a evaluar la efectividad de las actividades y servicios turísticos ofertados, así como a ajustar las estrategias de precios.
@@ -110,7 +110,7 @@
           div(numero="5" titulo="Desarrollo socioeconómico")
             p.mb-0 Examina el impacto en la comunidad local, incluyendo generación de empleo, crecimiento económico, programas de capacitación, participación comunitaria e inversión en infraestructura.
           div(numero="6" titulo="Promoción y posicionamiento")
-            p.mb-0 Evalúa la efectividad de las estrategias de marketing, el reconocimiento de marca, los canales de atracción de visitantes y el posicionamiento en plataformas digitales.
+            p.mb-0 Evalúa la efectividad de las estrategias de #[em marketing], el reconocimiento de marca, los canales de atracción de visitantes y el posicionamiento en plataformas digitales.
           div(numero="7" titulo="Seguridad y salud")
             p.mb-0 Monitorea la percepción de seguridad del destino, el registro de incidentes, el cumplimiento de protocolos sanitarios y la accesibilidad a servicios médicos.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -129,7 +129,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img04.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -140,7 +140,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img05.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -151,7 +151,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img06.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -162,7 +162,7 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img07.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -173,18 +173,18 @@
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img08.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
                 i.fas.fa-caret-down.fa-2x.me-3
-              h4.mb-0 Marketing y promoción
+              h4.mb-0 #[em Marketing] y promoción
             p.text-center.mb-0 Mide la efectividad de las estrategias publicitarias mediante el alcance de campañas, tasa de conversión y perfil de los visitantes, permitiendo una segmentación más precisa.
       .col-xl-5.col-lg-6.col-sm-8.col-10.mb-4(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema4/img09.jpg' alt="Imagen decorativa")
-          .tarjetas-up_card.BG03.p-xl-4.p-lg-3.p-4
+          .tarjetas-up_card.BG03.p-lg-3.p-4
             .title.d-flex.align-items-center.justify-content-center.mb-4
               span
                 i.fas.fa-caret-up.fa-2x.me-3
@@ -217,13 +217,13 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 c) Determinar las áreas clave de gestión
-            p.mb-0 Para un monitoreo eficiente, el proyecto debe dividirse en áreas clave de gestión que permitan evaluar su desempeño de manera estructurada. La promoción y el marketing abarcan aspectos como el alcance de las campañas y la atracción de turistas. La atención al cliente se centra en la satisfacción del visitante y la gestión de quejas. En el área de finanzas, se analizan el retorno de inversión y los costos operativos. Las operaciones incluyen la capacidad de carga y la eficiencia de los servicios. Finalmente, la sostenibilidad mide el uso de recursos, el impacto ambiental y la relación con la comunidad.
+            p.mb-0 Para un monitoreo eficiente, el proyecto debe dividirse en áreas clave de gestión que permitan evaluar su desempeño de manera estructurada. La promoción y el #[em marketing] abarcan aspectos como el alcance de las campañas y la atracción de turistas. La atención al cliente se centra en la satisfacción del visitante y la gestión de quejas. En el área de finanzas, se analizan el retorno de inversión y los costos operativos. Las operaciones incluyen la capacidad de carga y la eficiencia de los servicios. Finalmente, la sostenibilidad mide el uso de recursos, el impacto ambiental y la relación con la comunidad.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img12.jpg' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 d) Seleccionar indicadores específicos para cada área
-            p.mb-0 En función de cada una de estas áreas clave, se deben definir indicadores cuantitativos y cualitativos que permitan evaluar su desempeño. Algunos ejemplos incluyen el número de visitantes, considerando registros diarios, mensuales o por temporada; la tasa de ocupación hotelera, como indicador de la demanda turística; el índice de satisfacción del cliente, basado en encuestas y comentarios; la tasa de retorno de visitantes, que mide la fidelización del turista; el impacto ambiental, enfocado en el consumo de recursos y la huella de carbono; y la eficiencia en marketing, evaluada a través de la interacción en redes y el número de reservas generadas tras campañas promocionales..
+            p.mb-0 En función de cada una de estas áreas clave, se deben definir indicadores cuantitativos y cualitativos que permitan evaluar su desempeño. Algunos ejemplos incluyen el número de visitantes, considerando registros diarios, mensuales o por temporada; la tasa de ocupación hotelera, como indicador de la demanda turística; el índice de satisfacción del cliente, basado en encuestas y comentarios; la tasa de retorno de visitantes, que mide la fidelización del turista; el impacto ambiental, enfocado en el consumo de recursos y la huella de carbono; y la eficiencia en #[em marketing], evaluada a través de la interacción en redes y el número de reservas generadas tras campañas promocionales..
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img13.jpg' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center
@@ -259,7 +259,7 @@
           .col-6
             figure
               img(src='@/assets/curso/tema4/img18.svg', alt='Imagen decorativa')
-        p.mb-0 #[b Marketing]: la tasa de ocupación, la interacción en redes sociales y el número de reservas directas.
+        p.mb-0 #[b #[em Marketing]]: la tasa de ocupación, la interacción en redes sociales y el número de reservas directas.
       .col-lg.col-sm-6.col-8.mb-lg-0.mb-4.tarjeta.color-secundario.p-5(data-aos="flip-right")
         .row.justify-content-center.mb-4
           .col-6
@@ -329,7 +329,7 @@
               ul.lista-ul--color
                 li(style="margin-bottom: 2px")
                   i.fa-solid.fa-plane.tca
-                  | Campañas de marketing en redes sociales para promover el destino.
+                  p.mb-0 Campañas de #[em marketing] en redes sociales para promover el destino.
                 li(style="margin-bottom: 2px")
                   i.fa-solid.fa-plane.tca
                   | Capacitación del personal en atención al cliente.
