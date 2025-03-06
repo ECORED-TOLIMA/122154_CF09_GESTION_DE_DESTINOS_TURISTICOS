@@ -96,17 +96,17 @@
           .col-lg-4.col-sm-6.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Fondo Nacional de Turismo (FONTUR): financiamiento para proyectos turísticos.
-          .col-lg-4.col-sm-6.mb-4
+          .col-lg-4.col-sm-6.mb-lg-0.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Organismos internacionales: BID, CAF, Banco Mundial, entre otros.
-          .col-lg-4.col-sm-6.mb-4
+          .col-lg-4.col-sm-6.mb-lg-0.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Inversión privada y #[em crowdfunding]: inversores y plataformas de financiación colectiva.
-          .col-lg-4.col-sm-6.mb-4
+          .col-lg-4.col-sm-6
             .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Cooperativas y asociaciones: apoyo de entidades sin ánimo de lucro.
-      .col-lg-3.d-lg-flex.d-none
-        img.w-100(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
+      .col-lg-3.d-lg-flex.d-none(data-aos="fade-left")
+        img(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
 
     p Es recomendable investigar y contactar con las diferentes entidades para conocer las condiciones, requisitos y oportunidades específicas de financiación disponibles para cada tipo de proyecto turístico.
 

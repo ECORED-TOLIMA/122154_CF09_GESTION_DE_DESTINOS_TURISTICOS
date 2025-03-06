@@ -47,53 +47,53 @@
 
     .BGIMG05.p-4.mb-5
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Definir objetivos y alcance
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Definir objetivos y alcance
             p.mb-0 Es fundamental establecer claramente los objetivos y el alcance del proyecto, lo cual orienta la identificación de los servicios y actividades que se llevarán a cabo. Esto permitirá tener una visión clara de lo que se va a ofrecer y cómo se deben planificar los costos asociados.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img03.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Desglose de actividades
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Desglose de actividades
             p.mb-0 El proyecto debe ser desglosado en actividades específicas que se ejecutarán a lo largo de su desarrollo. Cada una de estas actividades debe tener asignados sus respectivos costos y recursos, lo que facilita la planificación detallada y el control financiero.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img04.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Estimación de costos
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Estimación de costos
             p.mb-0 En este paso, se deben estimar los costos tanto directos como indirectos del proyecto. Los costos directos incluyen aquellos vinculados de manera directa con la ejecución del proyecto, como construcción, #[em marketing], y adquisición de equipamiento. Los costos indirectos, por su parte, comprenden gastos generales, administración, transporte, entre otros, que no están directamente relacionados con la actividad principal pero que son necesarios para su ejecución.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img05.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Análisis de recursos
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Análisis de recursos
             p.mb-0 Es crucial identificar todos los recursos necesarios para la implementación del proyecto. Estos incluyen tanto los recursos materiales (como equipos y suministros) como el personal requerido y la tecnología necesaria. A cada uno de estos recursos se le debe asignar un valor económico adecuado para determinar el costo total de su uso en el proyecto.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img06.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Cronograma de desembolsos
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Cronograma de desembolsos
             p.mb-0 El presupuesto debe estar acompañado de un cronograma que detalle los desembolsos previstos a lo largo del proyecto. Este cronograma debe alinearse con las fases de ejecución del proyecto, garantizando que los fondos se liberen en el momento adecuado y en la cantidad necesaria para cada etapa.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img07.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Contingencias y riesgos
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Contingencias y riesgos
             p.mb-0 Para manejar posibles imprevistos, es recomendable incluir un margen de contingencia dentro del presupuesto. Además, se debe realizar un análisis de los riesgos potenciales, evaluando cómo estos pueden afectar el presupuesto y qué medidas se pueden tomar para mitigarlos.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img08.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Seguimiento y control
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Seguimiento y control
             p.mb-0 Es esencial monitorear constantemente los gastos a medida que se avanza en el proyecto. Este seguimiento permitirá identificar desviaciones significativas respecto al presupuesto inicial, lo cual facilita tomar acciones correctivas oportunas.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img09.jpg' alt="Imagen decorativa")
-        .row.justify-content-center.align-items-center
-          .col-lg-7.order-lg-1.order-2
-            .h4 Herramientas adicionales
+        .row.justify-content-center
+          .col-lg-5.px-4.order-lg-1.order-2
+            .h4.mt-5 Herramientas adicionales
             p.mb-0 Para optimizar tanto la elaboración como el control del presupuesto, se recomienda el uso de herramientas tecnológicas, como hojas de cálculo, #[em software] de gestión de proyectos y plataformas financieras. Estas herramientas permiten una gestión más precisa y eficiente de los recursos y los gastos, facilitando la toma de decisiones informadas a lo largo del proceso.
-          .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+          .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img10.jpg' alt="Imagen decorativa")
 
     .row.justify-content-center.align-items-center.mb-4
