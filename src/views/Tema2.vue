@@ -114,7 +114,7 @@
                   | Diseñar una identidad visual y marca atractiva.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
-                  p.mb-0 Implementar estrategias de #[em marketing] digital y tradicional (redes sociales, sitio web, blogs o #[em influencers]).
+                  p.mb-0 Implementar estrategias de #[em marketing] digital y tradicional (redes sociales, sitio web, #[em blogs] o #[em influencers]).
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
                   | Planificar promociones y descuentos de lanzamiento.
@@ -147,7 +147,7 @@
                   | Determinar costos de desarrollo, operación y mantenimiento.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
-                  | Definir un modelo de ingresos (tarifas, servicios adicionales o souvenirs).
+                  p.mb-0 Definir un modelo de ingresos (tarifas, servicios adicionales o #[em souvenirs]).
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle(style="color: #09614D;")
                   | Identificar fuentes de financiamiento (inversionistas, subvenciones y créditos).

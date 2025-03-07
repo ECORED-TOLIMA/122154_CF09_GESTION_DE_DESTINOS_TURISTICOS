@@ -48,28 +48,28 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img02.svg' alt="Imagen decorativa")
           .h-4.mt-4 Incentivos fiscales
           p.mb-0 Exenciones en impuestos y subsidios gubernamentales.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img03.svg' alt="Imagen decorativa")
           .h-4.mt-4 Regulación
           p.mb-0 Leyes que promueven la integración de proyectos turísticos en el desarrollo local.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img04.svg' alt="Imagen decorativa")
           .h-4.mt-4 Desarrollo sostenible
           p.mb-0 Fomento de prácticas sostenibles y obtención de certificaciones ambientales.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img05.svg' alt="Imagen decorativa")
@@ -105,8 +105,8 @@
           .col-lg-4.col-sm-6
             .tarjeta.BGIMG07.p-4.py-5.h-100
               p.mb-0 Cooperativas y asociaciones: apoyo de entidades sin ánimo de lucro.
-      .col-lg-3.d-lg-flex.d-none(data-aos="fade-left")
-        img(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
+      .col-lg-3(data-aos="fade-left")
+        img.d-lg-flex.d-none(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
 
     p Es recomendable investigar y contactar con las diferentes entidades para conocer las condiciones, requisitos y oportunidades específicas de financiación disponibles para cada tipo de proyecto turístico.
 

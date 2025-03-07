@@ -81,25 +81,25 @@
 
     .row.justify-content-center.mb-5
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema5/img08.svg' alt="Imagen decorativa")
           p.mt-4.mb-0 Infraestructura, como la construcción de hoteles, restaurantes, transporte e instalaciones de recreación.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema5/img09.svg' alt="Imagen decorativa")
           p.mt-4.mb-0 Recursos financieros, que abarcan los fondos para la inversión inicial y los costos operativos.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema5/img10.svg' alt="Imagen decorativa")
           p.mt-4.mb-0 Tecnología y equipamiento, incluyendo herramientas y sistemas para la administración y operación del turismo, como sistemas de reservación, plataformas de gestión y equipos de seguridad.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
-        .tarjeta--boton.color-secundario.p-4.py-5.h-100
+        .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema5/img11.svg' alt="Imagen decorativa")
@@ -238,7 +238,7 @@
               figure
                 img(src='@/assets/curso/temas/img01.svg' alt="Imagen decorativa")
             .col-lg-11.col-10
-              p.mb-0En general, el impacto de un proyecto turístico puede ser positivo o negativo según la forma en que se planee, implemente y gestione. Los enfoques de turismo sostenible y responsable son fundamentales para minimizar efectos negativos y maximizar beneficios.
+              p.mb-0 En general, el impacto de un proyecto turístico puede ser positivo o negativo según la forma en que se planee, implemente y gestione. Los enfoques de turismo sostenible y responsable son fundamentales para minimizar efectos negativos y maximizar beneficios.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema5/img22.png' alt="Imagen decorativa")
 
