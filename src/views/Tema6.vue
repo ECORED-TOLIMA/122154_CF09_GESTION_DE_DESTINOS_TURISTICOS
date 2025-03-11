@@ -132,20 +132,20 @@
         p Elaborar un plan de negocios para un proyecto turístico en Colombia requiere seguir una serie de pasos clave que garanticen su viabilidad y éxito. A continuación, se presenta una guía detallada para su desarrollo:
         LineaTiempoD.color-acento-boton
           div(numero="a" titulo="Resumen ejecutivo")
-            p Descripción del proyecto: breve presentación del tipo de negocio turístico (hotel, agencia de viajes, tour, entre otros)
+            p Descripción del proyecto: breve presentación del tipo de negocio turístico (hotel, agencia de viajes, #[em tour], entre otros).
             p Objetivos: definición de metas a corto y largo plazo.
             p.mb-0 Ubicación: determinación del lugar donde se implementará el proyecto.
           div(numero="b" titulo="Análisis de mercado")
             p Investigación de mercado: estudio de la demanda turística en la región, tendencias del sector y preferencias de los visitantes.
-            p Segmentación del mercado: identificación del público objetivo (turistas nacionales, internacionales y grupos específicos)
+            p Segmentación del mercado: identificación del público objetivo (turistas nacionales, internacionales y grupos específicos).
             p.mb-0 Análisis de la competencia: evaluación de otros negocios turísticos en la zona, sus fortalezas y áreas de mejora.
           div(numero="c" titulo="Plan de <em>marketing</em>")
-            p Estrategia de promoción: definición de las acciones para atraer clientes (publicidad, redes sociales y promociones)
+            p Estrategia de promoción: definición de las acciones para atraer clientes (publicidad, redes sociales y promociones).
             p Posicionamiento de marca: estrategia para diferenciarse en el mercado y generar reconocimiento.
             p.mb-0 Estrategia de precios: definición de tarifas en relación con la competencia y la propuesta de valor.
           div(numero="d" titulo="Descripción del proyecto")
             p Servicios ofrecidos: detalle de los productos y experiencias turísticas a brindar.
-            p Infraestructura requerida: recursos físicos y logísticos necesarios (alojamiento, transporte y guías turísticos)
+            p Infraestructura requerida: recursos físicos y logísticos necesarios (alojamiento, transporte y guías turísticos).
             p.mb-0 Regulaciones y permisos: normativas y licencias requeridas para operar legalmente en Colombia.
           div(numero="e" titulo="Plan operativo")
             p Gestión de operaciones: organización del funcionamiento diario del negocio.
@@ -156,7 +156,7 @@
             p Flujo de caja proyectado: cálculo de ingresos y gastos para los primeros años de operación.
             p.mb-0 Punto de equilibrio: determinación del volumen de ventas necesario para cubrir costos operativos.
           div(numero="g" titulo="Análisis de riesgos")
-            p Identificación de riesgos: factores que pueden afectar el éxito del proyecto (competencia, clima y cambios económicos)
+            p Identificación de riesgos: factores que pueden afectar el éxito del proyecto (competencia, clima y cambios económicos).
             p.mb-0 Estrategias de mitigación: medidas para minimizar los impactos negativos.
           div(numero="h" titulo="Conclusiones y recomendaciones")
             p Síntesis de los hallazgos clave: resumen de los aspectos más relevantes del análisis.
@@ -321,7 +321,7 @@
             .col-lg-6.order-lg-1.order-2
               .h4 D)	Herramientas de #[em marketing] y promoción:
               p Gestión de redes sociales: plataformas como Hootsuite o Buffer permiten programar publicaciones y analizar el impacto en redes sociales.
-              p Email #[em marketing]: servicios como Mailchimp ayudan a crear campañas de correo electrónico dirigidas a clientes potenciales.
+              p #[em Email marketing]: servicios como Mailchimp ayudan a crear campañas de correo electrónico dirigidas a clientes potenciales.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema6/img27.png', alt="Imagen decorativa")
           .row.justify-content-center(titulo="E")

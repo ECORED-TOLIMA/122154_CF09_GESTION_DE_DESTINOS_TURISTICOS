@@ -30,7 +30,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Objetivos
     
-    p.mb-5 Los objetivos de un proyecto turístico en Colombia deben seguir el modelo #[em SMART], es decir, ser específicos, medibles, alcanzables, relevantes y temporales. Estos orientan el desarrollo del proyecto y aseguran su impacto positivo. A continuación, se presentan los principales objetivos:
+    p.mb-5 Los objetivos de un proyecto turístico en Colombia deben seguir el modelo SMART, es decir, ser específicos, medibles, alcanzables, relevantes y temporales. Estos orientan el desarrollo del proyecto y aseguran su impacto positivo. A continuación, se presentan los principales objetivos:
 
     SlyderF.mb-5(columnas="col-lg-4 col-sm-6" data-aos="fade-right")
       .tarjeta.BGIMG02.p-4
@@ -109,7 +109,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
-        p Plantear metas para un proyecto turístico en Colombia requiere un enfoque claro y estratégico, dado que el sector turístico es clave en la economía del país. Las metas deben ser específicas, medibles, alcanzables, relevantes y con un tiempo definido (#[em SMART]), además de alinearse con las particularidades del entorno y los objetivos locales.
+        p Plantear metas para un proyecto turístico en Colombia requiere un enfoque claro y estratégico, dado que el sector turístico es clave en la economía del país. Las metas deben ser específicas, medibles, alcanzables, relevantes y con un tiempo definido (SMART), además de alinearse con las particularidades del entorno y los objetivos locales.
         p.mb-0 A continuación, se presentan ejemplos concretos de metas aplicadas a un proyecto turístico en una región específica:
       .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img11.png' alt="Imagen decorativa")

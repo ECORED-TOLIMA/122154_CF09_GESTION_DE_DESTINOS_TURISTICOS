@@ -205,7 +205,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 a) Definir los objetivos del proyecto turístico
-            p.mb-0 Es fundamental establecer objetivos claros y alineados con la visión del proyecto. Estos deben ser #[em SMART] (específicos, medibles, alcanzables, relevantes y con un tiempo definido). Los objetivos pueden incluir el aumento de turistas, la mejora de la experiencia del visitante, el incremento de la rentabilidad o la promoción del turismo sostenible.
+            p.mb-0 Es fundamental establecer objetivos claros y alineados con la visión del proyecto. Estos deben ser SMART (específicos, medibles, alcanzables, relevantes y con un tiempo definido). Los objetivos pueden incluir el aumento de turistas, la mejora de la experiencia del visitante, el incremento de la rentabilidad o la promoción del turismo sostenible.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img10.jpg' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center
@@ -308,7 +308,7 @@
             img(src='@/assets/curso/tema4/img23.png' alt='Imagen decorativa')
           .tarjeta.BG04.p-4.ps-5
             .ms-4
-              p #[strong b) Indicadores de gestión]: son herramientas de medición que permiten evaluar el progreso hacia las metas planteadas. Deben cumplir con los criterios #[em SMART] (específicos, medibles, alcanzables, relevantes y con un marco temporal). Algunos indicadores en el ámbito turístico incluyen:
+              p #[strong b) Indicadores de gestión]: son herramientas de medición que permiten evaluar el progreso hacia las metas planteadas. Deben cumplir con los criterios SMART (específicos, medibles, alcanzables, relevantes y con un marco temporal). Algunos indicadores en el ámbito turístico incluyen:
               ul.lista-ul--color
                 li(style="margin-bottom: 2px")
                   i.fa-solid.fa-plane.tca
