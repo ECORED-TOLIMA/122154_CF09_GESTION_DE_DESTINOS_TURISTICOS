@@ -116,7 +116,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta BG03")
-          .row.justify-content-center(titulo="A) Ministerio de Comercio, Industria y Turismo (MinCIT)")
+          .row.justify-content-center(titulo="a) Ministerio de Comercio, Industria y Turismo (MinCIT)")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img11.png' alt="Imagen decorativa")
             .col-lg-9
@@ -124,14 +124,14 @@
               p #[b Convocatorias para emprendimiento y competitividad]: apoyan a empresarios y emprendedores en la creación y consolidación de empresas turísticas mediante capacitación y financiamiento.
               p #[b Apoyo al turismo rural]: promueven iniciativas que fortalecen el turismo rural y comunitario, ofreciendo experiencias auténticas y sostenibles.
               p.mb-0 #[b Financiamiento a proyectos de turismo comunitario]: otorgan recursos a comunidades locales para desarrollar proyectos turísticos que preserven la cultura y el entorno.
-          .row.justify-content-center(titulo="B) ProColombia")
+          .row.justify-content-center(titulo="b) ProColombia")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img12.png' alt="Imagen decorativa")
             .col-lg-9
               p Se encarga de la promoción internacional del turismo en Colombia y brinda apoyo a proyectos y eventos que buscan atraer visitantes extranjeros. También ofrece asesorías y programas para mejorar la oferta turística y su competitividad.
               p #[b Apoyo a la promoción internacional]: convocatorias para financiar proyectos que impulsen a Colombia como destino turístico en mercados globales.
               p.mb-0 #[b Capacitación en mercadeo y comercialización]: programas dirigidos a operadores turísticos, agencias de viajes y empresas relacionadas para mejorar su competitividad.
-          .row.justify-content-center(titulo="C) Fondo Nacional de Turismo (Fontur)")
+          .row.justify-content-center(titulo="c) Fondo Nacional de Turismo (Fontur)")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img13.png' alt="Imagen decorativa")
             .col-lg-9
@@ -139,22 +139,22 @@
               p #[b Proyectos de infraestructura turística]: financiamiento para mejorar la accesibilidad y la experiencia en destinos turísticos, como senderos ecológicos, señalización y centros de información.
               p #[b Fortalecimiento y promoción de destinos turísticos]: apoyo a iniciativas que buscan posicionar destinos específicos a nivel nacional e internacional.
               p.mb-0 #[b Innovación y sostenibilidad]: convocatorias para proyectos que promuevan la sostenibilidad, la inclusión y la innovación en comunidades locales.
-          .row.justify-content-center(titulo="D) Cámaras de Comercio")
+          .row.justify-content-center(titulo="d) Cámaras de Comercio")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img14.png' alt="Imagen decorativa")
             .col-lg-9
               p.mb-0 Algunas Cámaras de Comercio, como las de Bogotá y Medellín, lanzan convocatorias para fortalecer el turismo, especialmente en capacitación y promoción de pequeñas empresas del sector.
-          .row.justify-content-center(titulo="E) Servicio Nacional de Aprendizaje (SENA)")
+          .row.justify-content-center(titulo="e) Servicio Nacional de Aprendizaje (SENA)")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img15.png' alt="Imagen decorativa")
             .col-lg-9
               p.mb-0 Esta entidad ofrece programas de formación especializada en turismo y, en algunos casos, financia proyectos que benefician a comunidades locales, impulsando su competitividad.
-          .row.justify-content-center(titulo="F) Entidades departamentales y municipales")
+          .row.justify-content-center(titulo="f) Entidades departamentales y municipales")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
             .col-lg-9
               p.mb-0 Gobernaciones y alcaldías, como la Gobernación de Antioquia y la Alcaldía de Bogotá, desarrollan convocatorias para fortalecer el turismo local. Estas iniciativas incluyen la creación de rutas turísticas, formación y desarrollo de infraestructura.
-          .row.justify-content-center(titulo="G) Organismos internacionales")
+          .row.justify-content-center(titulo="g) Organismos internacionales")
             .col-lg-3.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img17.png' alt="Imagen decorativa")
             .col-lg-9

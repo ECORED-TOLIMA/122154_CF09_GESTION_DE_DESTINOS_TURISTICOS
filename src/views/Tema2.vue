@@ -250,7 +250,7 @@
             ul.lista-ul--color
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #09614D;")
-                | Establecer KPI para medir el avance y éxito del proyecto, como el número de turistas atendidos, el nivel de satisfacción del cliente (mediante encuestas), los ingresos generados y el retorno de inversión.
+                | Establecer indicadores clave de desempeño (KPI) para medir el avance y éxito del proyecto, como el número de turistas atendidos, el nivel de satisfacción del cliente (mediante encuestas), los ingresos generados y el retorno de inversión.
               li(style="margin-bottom: 2px")
                 i.fas.fa-check-circle(style="color: #09614D;")
                 | Definir fechas de revisión y métodos de reporte.

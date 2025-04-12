@@ -313,7 +313,7 @@ export default {
         {
           id: 20,
           texto:
-            'Pregunta 20	Un presupuesto adecuado en un proyecto turístico no necesita ajustes.',
+            'Un presupuesto adecuado en un proyecto turístico no necesita ajustes.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

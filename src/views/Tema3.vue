@@ -245,7 +245,7 @@
                       | Consulta con expertos locales y actores clave.
               tr(data-aos="fade-right")
                 td Planificación del proyecto
-                td 1-2 meses
+                td 1-2 meses.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -265,7 +265,7 @@
                       | Asignación de presupuesto y recursos.
               tr(data-aos="fade-right")
                 td Diseño del proyecto
-                td 1-3 meses
+                td 1-3 meses.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -285,7 +285,7 @@
                       | Validación de diseños y conceptos con partes interesadas.
               tr(data-aos="fade-right")
                 td Obtención de permisos y licencias
-                td 2-4 meses
+                td 2-4 meses.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -299,7 +299,7 @@
                       | Gestión de licencias turísticas y certificaciones.
               tr(data-aos="fade-right")
                 td Financiación
-                td 1-3 meses (puede coincidir con otras fases)
+                td 1-3 meses (puede coincidir con otras fases).
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -313,7 +313,7 @@
                       | Acceso a subsidios o apoyos estatales y turísticos.
               tr(data-aos="fade-right")
                 td Desarrollo y construcción
-                td 6-12 meses
+                td 6-12 meses.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -330,12 +330,12 @@
                       | Capacitación del personal y voluntarios.
               tr(data-aos="fade-right")
                 td #[em Marketing] y promoción
-                td 3-6 meses antes de la apertura
+                td 3-6 meses antes de la apertura.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Creación de campañas de #[em marketing] digital y tradicional.
+                      p.mb-0 Creación de campañas de #[em marketing] digital y tradicional.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       | Alianzas con agencias de turismo y redes locales.
@@ -350,7 +350,7 @@
                       | Diseño de paquetes y promociones de lanzamiento.
               tr(data-aos="fade-right")
                 td Pruebas y evaluación de calidad
-                td 1-2 meses antes de la apertura
+                td 1-2 meses antes de la apertura.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -367,7 +367,7 @@
                       | Pruebas de sistemas de gestión y reservas.
               tr(data-aos="fade-right")
                 td Apertura oficial
-                td 1 mes (eventos de lanzamiento)
+                td 1 mes (eventos de lanzamiento).
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
@@ -381,7 +381,7 @@
                       | Evaluación y optimización de procesos de servicio.
               tr(data-aos="fade-right")
                 td Seguimiento y evaluación continua
-                td Permanente
+                td Permanente.
                 td
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")

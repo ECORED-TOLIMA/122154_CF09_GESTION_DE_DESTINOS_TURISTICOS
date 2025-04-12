@@ -52,28 +52,28 @@
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img02.svg' alt="Imagen decorativa")
-          .h-4.mt-4 Incentivos fiscales
+          .h4.mt-4 Incentivos fiscales
           p.mb-0 Exenciones en impuestos y subsidios gubernamentales.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
         .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img03.svg' alt="Imagen decorativa")
-          .h-4.mt-4 Regulación
+          .h4.mt-4 Regulación
           p.mb-0 Leyes que promueven la integración de proyectos turísticos en el desarrollo local.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
         .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img04.svg' alt="Imagen decorativa")
-          .h-4.mt-4 Desarrollo sostenible
+          .h4.mt-4 Desarrollo sostenible
           p.mb-0 Fomento de prácticas sostenibles y obtención de certificaciones ambientales.
       .col-lg-3.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta--boton.BGIMG08.p-4.py-5.h-100
           .row.justify-content-center.mb-4
             .col-6
               img(src='@/assets/curso/tema9/img05.svg' alt="Imagen decorativa")
-          .h-4.mt-4 Formación y capacitación
+          .h4.mt-4 Formación y capacitación
           p.mb-0 Programas para mejorar las competencias en gestión financiera y atención al cliente.
 
     p La política financiera para proyectos turísticos en Colombia se centra en crear un entorno favorable para la inversión y el desarrollo sostenible, promoviendo un turismo responsable que beneficie tanto a las comunidades locales como al país en su conjunto. La implementación efectiva de estas políticas es clave para fomentar el crecimiento del sector turístico en Colombia y garantizar su sostenibilidad a largo plazo.
@@ -89,22 +89,22 @@
         .row.justify-content-center
           .col-lg-4.col-sm-6.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Recursos públicos: Ministerio de Comercio, Industria y Turismo, y gobiernos regionales.
+              p.mb-0 #[b Recursos públicos]: Ministerio de Comercio, Industria y Turismo, y gobiernos regionales.
           .col-lg-4.col-sm-6.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Bancos y entidades financieras: créditos y líneas de financiamiento específicas.
+              p.mb-0 #[b Bancos y entidades financieras]: créditos y líneas de financiamiento específicas.
           .col-lg-4.col-sm-6.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Fondo Nacional de Turismo (FONTUR): financiamiento para proyectos turísticos.
+              p.mb-0 #[b Fondo Nacional de Turismo (FONTUR)]: financiamiento para proyectos turísticos.
           .col-lg-4.col-sm-6.mb-lg-0.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Organismos internacionales: BID, CAF, Banco Mundial, entre otros.
+              p.mb-0 #[b Organismos internacionales]: BID, CAF, Banco Mundial, entre otros.
           .col-lg-4.col-sm-6.mb-lg-0.mb-4
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Inversión privada y #[em crowdfunding]: inversores y plataformas de financiación colectiva.
+              p.mb-0 #[b Inversión privada y #[em crowdfunding]]: inversores y plataformas de financiación colectiva.
           .col-lg-4.col-sm-6
             .tarjeta.BGIMG07.p-4.py-5.h-100
-              p.mb-0 Cooperativas y asociaciones: apoyo de entidades sin ánimo de lucro.
+              p.mb-0 #[b Cooperativas y asociaciones]: apoyo de entidades sin ánimo de lucro.
       .col-lg-3(data-aos="fade-left")
         img.d-lg-flex.d-none(src='@/assets/curso/tema9/img06.png' alt="Imagen decorativa")
 

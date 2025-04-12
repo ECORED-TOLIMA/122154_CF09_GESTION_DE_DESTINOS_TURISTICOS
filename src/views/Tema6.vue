@@ -64,7 +64,7 @@
               img(src='@/assets/curso/tema6/img03.svg' alt="Imagen decorativa")
           .h4 B. Análisis del entorno
           p Investigación de mercado: analizar la demanda turística, tendencias del sector y perfil del turista.
-          p.mb-0 Análisis FODA: evaluar fortalezas, oportunidades, debilidades y amenazas que puedan influir en el proyecto.
+          p.mb-0 Análisis FODA: evaluar Fortalezas, Oportunidades, Debilidades y Amenazas  que puedan influir en el proyecto.
         .tarjeta.BGIMG02.p-4
           .row.justify-content-center.mb-4
             .col-8

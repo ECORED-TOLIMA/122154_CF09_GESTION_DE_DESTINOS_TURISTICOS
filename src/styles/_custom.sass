@@ -66,7 +66,7 @@
 .BG03, .linea-tiempo-d .tarjeta
   background-color: #D1E1DD
 
-.BG04, .BG03.acordion__activo, .cajon.color-secundario, .tarjeta--boton
+.BG04, .BG03.acordion__activo, .cajon.color-secundario, .tarjeta--boton, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
   background-color: #FFE9DF
 
 .BG05, .BGR05, .BGM05
@@ -83,7 +83,9 @@
   background-color: #FECAB2
 
 .BG09
-  background: linear-gradient(to right, #FEEBCF 12%, #FEF7EB 12%)
+  background: linear-gradient(to right, #FECAB2 12%, #FFE9DF 12%)
+  @media (max-width: $bp-max-md)
+    background: linear-gradient(to bottom, #FECAB2 22%, #FFE9DF 22%)
 
 .BGM10
   background: linear-gradient(to bottom, #FFF 15%, #FFF9F5, #FFF 85%)
@@ -98,9 +100,6 @@
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .acordion__accion__btn--a, .acordion__accion__btn--b
   background-color: #09614D
   color: #FFF
-
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
-  background-color: #FFE9DF
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
   border-radius: 5px 5px 0 0
@@ -171,3 +170,6 @@
   @media (max-width: $bp-max-xs)
     height: auto
     padding: 5px
+  
+.barra-avance__boton--regresar span
+  color: #fff !important

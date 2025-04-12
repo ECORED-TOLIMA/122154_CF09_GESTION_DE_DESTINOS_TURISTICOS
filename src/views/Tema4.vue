@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img01.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 El turismo en Colombia representa una oportunidad crucial para impulsar el desarrollo económico, dado su inmenso potencial en biodiversidad, cultura y paisajes únicos. En este contexto, los indicadores de gestión se convierten en herramientas esenciales para la planificación, monitoreo y optimización de los proyectos turísticos. La implementación de estos indicadores permite evaluar tanto el rendimiento del proyecto como su impacto en la economía local, los recursos naturales y las comunidades. Este documento aborda algunos indicadores clave que podrían utilizarse en un proyecto turístico en Colombia, enfocándose en aspectos financieros, de sostenibilidad, satisfacción del cliente y desarrollo comunitario.
+        p.mb-0 El turismo en Colombia representa una oportunidad crucial para impulsar el desarrollo económico, dado su inmenso potencial en biodiversidad, cultura y paisajes únicos. En este contexto, los indicadores de gestión se convierten en herramientas esenciales para la planificación, monitoreo y optimización de los proyectos turísticos. La implementación de estos indicadores permite evaluar tanto el rendimiento del proyecto como su impacto en la economía local, los recursos naturales y las comunidades. A continuación, se presentan  algunos indicadores clave que podrían utilizarse en un proyecto turístico en Colombia, enfocándose en aspectos financieros, de sostenibilidad, satisfacción del cliente y desarrollo comunitario.
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -34,13 +34,13 @@
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Retorno de Inversión (ROI): permite medir la rentabilidad del proyecto, comparando las ganancias generadas frente a la inversión inicial. Un ROI alto indica que el proyecto está generando ingresos suficientes para cubrir los costos y generar beneficios adicionales.
+                      p.mb-0 #[b Retorno de Inversión (ROI)]: permite medir la rentabilidad del proyecto, comparando las ganancias generadas frente a la inversión inicial. Un ROI alto indica que el proyecto está generando ingresos suficientes para cubrir los costos y generar beneficios adicionales.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      p.mb-0 Costo de Adquisición de Clientes (CAC): evalúa el costo de atraer a cada visitante, considerando gastos en #[em marketing] y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
+                      p.mb-0 #[b mb-0 Costo de Adquisición de Clientes (CAC)]: evalúa el costo de atraer a cada visitante, considerando gastos en #[em marketing] y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Ingresos por visitante: mide el promedio de ingresos generados por cada turista durante su visita. Este indicador ayuda a evaluar la efectividad de las actividades y servicios turísticos ofertados, así como a ajustar las estrategias de precios.
+                      p.mb-0 #[b Ingresos por visitante]: mide el promedio de ingresos generados por cada turista durante su visita. Este indicador ayuda a evaluar la efectividad de las actividades y servicios turísticos ofertados, así como a ajustar las estrategias de precios.
               tr(data-aos="fade-right")
                 td Indicadores de sostenibilidad
                 td Colombia es reconocida por su biodiversidad y la riqueza de sus paisajes naturales. Por ello, los proyectos turísticos en el país deben considerar indicadores que evalúen su impacto ambiental y promuevan la sostenibilidad.
@@ -48,13 +48,13 @@
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Huella de carbono: mide las emisiones de gases de efecto invernadero generadas por el proyecto, desde el transporte hasta las actividades recreativas. Reducir la huella de carbono no solo es esencial para cumplir con estándares ambientales, sino también para atraer turistas que valoren el turismo sostenible.
+                      p.mb-0 #[b Huella de carbono]: mide las emisiones de gases de efecto invernadero generadas por el proyecto, desde el transporte hasta las actividades recreativas. Reducir la huella de carbono no solo es esencial para cumplir con estándares ambientales, sino también para atraer turistas que valoren el turismo sostenible.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Consumo de recursos naturales: monitorear el consumo de agua y energía permite evaluar el impacto ambiental del proyecto. Implementar prácticas de ahorro y tecnologías sostenibles ayuda a reducir este consumo, mejorando la imagen del proyecto ante los turistas conscientes del medio ambiente.
+                      p.mb-0 #[b Consumo de recursos naturales]: monitorear el consumo de agua y energía permite evaluar el impacto ambiental del proyecto. Implementar prácticas de ahorro y tecnologías sostenibles ayuda a reducir este consumo, mejorando la imagen del proyecto ante los turistas conscientes del medio ambiente.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Gestión de residuos: medir la cantidad de residuos generados y reciclados en el proyecto promueve la implementación de sistemas de gestión eficientes, evitando la contaminación y contribuyendo a la protección del entorno.
+                      p.mb-0 #[b Gestión de residuos]: medir la cantidad de residuos generados y reciclados en el proyecto promueve la implementación de sistemas de gestión eficientes, evitando la contaminación y contribuyendo a la protección del entorno.
               tr(data-aos="fade-right")
                 td Indicadores de satisfacción del cliente
                 td La experiencia del visitante es un factor crucial en el éxito de un proyecto turístico. Los indicadores de satisfacción permiten conocer el nivel de satisfacción del turista, identificar áreas de mejora y asegurar que los servicios cumplen con las expectativas.
@@ -62,13 +62,13 @@
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Índice de satisfacción del cliente: mide la percepción de los turistas sobre el servicio, instalaciones y actividades. Se puede obtener mediante encuestas o comentarios. Un índice alto refleja una buena calidad de servicio y experiencia, mientras que un índice bajo indica la necesidad de mejoras.
+                      p.mb-0 #[b Índice de satisfacción del cliente]: mide la percepción de los turistas sobre el servicio, instalaciones y actividades. Se puede obtener mediante encuestas o comentarios. Un índice alto refleja una buena calidad de servicio y experiencia, mientras que un índice bajo indica la necesidad de mejoras.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Tasa de Recomendación o Net Promoter Score (NPS): mide la probabilidad de que un turista recomiende el destino a otros. Un NPS positivo sugiere que los visitantes han tenido una experiencia satisfactoria y probablemente actúen como promotores del destino.
+                      p.mb-0 #[b Tasa de Recomendación o Net Promoter Score (NPS)]: mide la probabilidad de que un turista recomiende el destino a otros. Un NPS positivo sugiere que los visitantes han tenido una experiencia satisfactoria y probablemente actúen como promotores del destino.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Tiempo de permanencia del visitante: mide la duración de la estancia de los turistas. Una estadía más prolongada suele traducirse en un mayor gasto en el destino, lo que es positivo para la economía local y para el éxito del proyecto.
+                      p.mb-0 #[b Tiempo de permanencia del visitante]: mide la duración de la estancia de los turistas. Una estadía más prolongada suele traducirse en un mayor gasto en el destino, lo que es positivo para la economía local y para el éxito del proyecto.
               tr(data-aos="fade-right")
                 td Indicadores de desarrollo comunitario
                 td El turismo en Colombia debe contribuir al desarrollo de las comunidades locales, por lo que es importante medir cómo los proyectos turísticos benefician a la población.
@@ -76,13 +76,13 @@
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Empleo local generado: mide el número de empleos creados en la comunidad por el proyecto turístico. Un proyecto exitoso no solo debe atraer visitantes, sino también generar empleo para los residentes, contribuyendo a mejorar su calidad de vida.
+                      p.mb-0 #[b Empleo local generado]: mide el número de empleos creados en la comunidad por el proyecto turístico. Un proyecto exitoso no solo debe atraer visitantes, sino también generar empleo para los residentes, contribuyendo a mejorar su calidad de vida.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Distribución de beneficios: evalúa el porcentaje de ingresos que se destina a las comunidades locales, ya sea en salarios, inversión en infraestructuras o servicios. Un mayor porcentaje indica un proyecto comprometido con el desarrollo local.
+                      p.mb-0 #[b Distribución de beneficios]: evalúa el porcentaje de ingresos que se destina a las comunidades locales, ya sea en salarios, inversión en infraestructuras o servicios. Un mayor porcentaje indica un proyecto comprometido con el desarrollo local.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      | Índice de participación comunitaria: mide el nivel de involucramiento de la comunidad en la planificación y operación del proyecto. La participación de la comunidad es clave para asegurar que el proyecto esté alineado con sus necesidades y valores, generando un sentido de pertenencia y colaboración.
+                      p.mb-0 #[b Índice de participación comunitaria]: mide el nivel de involucramiento de la comunidad en la planificación y operación del proyecto. La participación de la comunidad es clave para asegurar que el proyecto esté alineado con sus necesidades y valores, generando un sentido de pertenencia y colaboración.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
@@ -223,7 +223,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-7.order-lg-1.order-2
             .h4 d) Seleccionar indicadores específicos para cada área
-            p.mb-0 En función de cada una de estas áreas clave, se deben definir indicadores cuantitativos y cualitativos que permitan evaluar su desempeño. Algunos ejemplos incluyen el número de visitantes, considerando registros diarios, mensuales o por temporada; la tasa de ocupación hotelera, como indicador de la demanda turística; el índice de satisfacción del cliente, basado en encuestas y comentarios; la tasa de retorno de visitantes, que mide la fidelización del turista; el impacto ambiental, enfocado en el consumo de recursos y la huella de carbono; y la eficiencia en #[em marketing], evaluada a través de la interacción en redes y el número de reservas generadas tras campañas promocionales..
+            p.mb-0 En función de cada una de estas áreas clave, se deben definir indicadores cuantitativos y cualitativos que permitan evaluar su desempeño. Algunos ejemplos incluyen el número de visitantes, considerando registros diarios, mensuales o por temporada; la tasa de ocupación hotelera, como indicador de la demanda turística; el índice de satisfacción del cliente, basado en encuestas y comentarios; la tasa de retorno de visitantes, que mide la fidelización del turista; el impacto ambiental, enfocado en el consumo de recursos y la huella de carbono; y la eficiencia en #[em marketing], evaluada a través de la interacción en redes y el número de reservas generadas tras campañas promocionales.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema4/img13.jpg' alt="Imagen decorativa")
         .row.justify-content-center.align-items-center

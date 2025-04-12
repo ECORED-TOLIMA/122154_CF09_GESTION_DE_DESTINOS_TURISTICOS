@@ -13,8 +13,8 @@
           .col-lg-2.col-4.mb-lg-0.mb-4
             img(src='@/assets/curso/tema5/img01.png' alt="Imagen decorativa")
           .col-lg-8
-            p La productividad local en el sector turístico de Colombia se refiere a la capacidad de las regiones para generar beneficios económicos, sociales y culturales de manera eficiente y sostenible. En otras palabras, mide qué tan bien los recursos locales, como atracciones naturales, infraestructura, servicios y talento humano, contribuyen al desarrollo económico y al bienestar de la comunidad a través del turismo.
-            p.mb-0 Varios factores influyen en la productividad turística local:
+            p.mb-0 La productividad local en el sector turístico de Colombia se refiere a la capacidad de las regiones para generar beneficios económicos, sociales y culturales de manera eficiente y sostenible. En otras palabras, mide qué tan bien los recursos locales, como atracciones naturales, infraestructura, servicios y talento humano, contribuyen al desarrollo económico y al bienestar de la comunidad a través del turismo.
+        p Varios factores influyen en la productividad turística local:
         .tarjeta.BG04.p-4
           ul.lista-ul--color
             li(style="margin-bottom: 2px")
