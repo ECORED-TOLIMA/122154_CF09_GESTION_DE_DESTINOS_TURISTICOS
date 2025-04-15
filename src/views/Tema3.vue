@@ -225,7 +225,7 @@
             tbody
               tr(data-aos="fade-right")
                 td Investigación y análisis
-                td 1-3 meses
+                td 1-3 meses.
                 td 
                   ul.lista-ul--color
                     li(style="margin-bottom: 2px")
