@@ -284,11 +284,6 @@ export default {
         download: 'downloads/CFA_09_122154_DU.pdf',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -444,7 +439,7 @@ export default {
       autores: [
         {
           nombre: 'Juan Carlos Camargo Solano',
-          cargo: 'Experta temática',
+          cargo: 'Experto temático',
           centro:
             'Centro Nacional de Hotelería, Turismo y Alimentos - Regional Distrito Capital',
         },
