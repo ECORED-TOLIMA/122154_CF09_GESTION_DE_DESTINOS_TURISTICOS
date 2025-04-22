@@ -37,7 +37,7 @@
                       p.mb-0 #[b Retorno de Inversión (ROI)]: permite medir la rentabilidad del proyecto, comparando las ganancias generadas frente a la inversión inicial. Un ROI alto indica que el proyecto está generando ingresos suficientes para cubrir los costos y generar beneficios adicionales.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
-                      p.mb-0 #[b mb-0 Costo de Adquisición de Clientes (CAC)]: evalúa el costo de atraer a cada visitante, considerando gastos en #[em marketing] y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
+                      p.mb-0 #[b Costo de Adquisición de Clientes (CAC)]: evalúa el costo de atraer a cada visitante, considerando gastos en #[em marketing] y publicidad. Es especialmente relevante en proyectos que buscan atraer turistas internacionales, ya que los costos pueden ser más altos.
                     li(style="margin-bottom: 2px")
                       i.fas.fa-check-circle(style="color: #09614D;")
                       p.mb-0 #[b Ingresos por visitante]: mide el promedio de ingresos generados por cada turista durante su visita. Este indicador ayuda a evaluar la efectividad de las actividades y servicios turísticos ofertados, así como a ajustar las estrategias de precios.
